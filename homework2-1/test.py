@@ -7,6 +7,7 @@ import pandas as pd
 from sklearn import preprocessing
 from keras.models import Sequential
 from keras.layers import Activation,Dense, Dropout
+from datetime import datetime,timedelta
 
 def PreprocessData(raw_df):
     #Remove the 'name' col
@@ -76,13 +77,31 @@ model.add(Activation('sigmoid'))
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-model.summary()
+# model.summary()
 
-model.fit(x = train_result, y = train_label, epochs = 10, validation_split = 0.1, batch_size = 10, verbose = 1)
+model.fit(x = train_result, y = train_label, epochs = 500, validation_split = 0.05, batch_size = 5, verbose = 1)
 
-scores = model.evaluate(x = test_feature, y = test_label, batch_size=10)
-
+scores = model.evaluate(x = train_result, y = train_label, batch_size=10)
 print(scores)
 
+res = model.predict(test_feature, batch_size=5, verbose=0)
+
+# print(type(res), res)
+# print(len(res))
+result_txt = "result" + str(datetime.now()).split()[1] + ".txt"
+
+
+# np.savetxt('001', res)
+# print(type(res[0]), res[0])
+
+ids = 0
+with open(result_txt, 'a') as out:
+    out.write("id,survived" + '\n')
+    for value in res:
+        if value[0] > 0.5:
+            out.write(str(ids) + "," + str(1) + '\n')
+        else:
+            out.write(str(ids) + "," + str(0) + '\n')
+        ids += 1
 
 #ddd
