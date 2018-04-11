@@ -1,6 +1,3 @@
-
-# coding: utf-8
-
 # # Homework 2 of NLP for Deeplearning
 
 #!/usr/bin/python3
