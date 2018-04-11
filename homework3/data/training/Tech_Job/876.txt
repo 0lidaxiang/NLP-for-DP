@@ -1,0 +1,44 @@
+<span class="f2">※ 引述《realchic (沒有暱稱)》之銘言：
+</span><span class="f6">: ※ 引述《BearJW ( )》之銘言：
+</span><span class="f6">: : 用若干個砝碼組合出1～100公克，
+</span><span class="f6">: : 請問砝碼最少數量為幾個?
+</span><span class="f6">: : 題目本身不好懂，我一開始還誤解了意思= =
+</span><span class="f6">: : 我在解題的時候一直想到建構式數學，因為我的年代沒學過建構式。
+</span><span class="f6">: : 不知道有沒有關聯?
+</span><span class="f6">: : 理論上用100個1公克的砝碼可以組合出1～100個任意公克數。
+</span><span class="f6">: : 比如說79公克，可以用79個1公克。
+</span><span class="f6">: : 也可以用一個50公克、一個25公克、一個4公克來組成。
+</span><span class="f6">: : 也可以用一個75公克、兩個2公克來組成。
+</span><span class="f6">: : 不知道這題有沒有速解法?因為我是用土法煉鋼兜起來的<a class="__cf_email__" data-cfemail="406e6e6e00" href="/cdn-cgi/l/email-protection">[email protected]</a>@
+</span><span class="f6">:   我記得這個問題好像是說.....
+</span><span class="f6">:   如果有個待測物放置於天平上，只知道他重量介於1~100克之間
+</span><span class="f6">:   請用最少的法碼，來測出他的重量，兩邊都可以放法碼
+</span><span class="f6">:   所以用二分法並不是最少解...
+</span><span class="f6">:   我記得答案好像是六顆法碼的樣子...1 3 7 15 31 63
+</span>
+這題目蠻好玩的
+
+如果是如原PO所說的，用砝碼組合出 1～100g 的重量
+
+那就很簡單，七顆：1,2,4,8,16,32,64g 各一顆
+
+
+如果再加上待測物跟天平，砝碼放一邊，待測物放一邊，求待測物重量
+
+那就是六顆：2,4,8,16,32,64g 或 2,4,7,13,25,50g 各一顆
+
+
+如果再加上砝碼也可以放待測物那一邊
+
+那就變五顆：1,3,9,27,81g 各一顆
+
+
+不曉得這題目還有沒有其它變化 XD
+
+--
+<span class="f2 hl">少時撫劍獨閑遊  披霜臥萍州
+</span><span class="f2 hl"> </span><span class="f6 hl">隨流飄蕩  任東西  情休休
+</span><span class="hl">今越期頤按白首  兜墨洗清秋
+</span><span class="hl"> </span><span class="f5 hl">從頭細書  自揮灑  意悠悠
+</span><span class="f5 hl">
+</span><span class="f5 hl"> </span><span class="f1 hl">舞劍弔四無君  </span><span class="f3 hl">雲濤夢筆‧沐流塵</span>

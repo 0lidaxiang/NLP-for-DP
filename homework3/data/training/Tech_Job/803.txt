@@ -1,0 +1,61 @@
+
+直接回一篇好了,
+
+小的是2010年9月進入TSMC,2011年離職待了一年兩個月,
+
+讓我算給你看
+
+底薪  44800*12=537600
+
+年終  44800*2*(4/12)=29867  9月入職,所以有9,10,11,12,共4個月的年終
+
+分紅 9,10,11月沒得分,但是12月可以分,所以第四季可以拿三分之一的分紅
+     連明年七月的一半一併計算,分紅一季的基數抓七萬
+     12月的分紅有70000/3*2=46667
+
+     再加上明年1.2.3季的分紅 70000*3=210000
+
+     所以一年的總分紅是210000+46667=256667
+
+加班費 這就比較複雜了
+
+       跟據台積的規定, 加班費是由時薪來計算,而時薪則是底薪除以240(也就是
+       當你一個月做240個小時的意思)
+       所以你的時薪是44800/240=187 沒錯就是這麼低
+
+       以我當時部門的人力情況,我們是一個月值兩天假日下個月就要值四天假日,
+       然後一直reloop,所以我就算一個月值三天假日好了,而假日加班規定是時薪
+       的兩倍,而我們部門則是讓我們假日值班可以報12小(就是上8小時報12小時,
+       因為平常大家做超過六點都沒報加班,所以可以補一下)
+       故假日值班一天就有187*2*12=4488
+       一個月三天,一年的加班費有4488*3*12=161568
+
+全部加起來 537600+29867+256667+161568=985702
+
+以上就是台積製程一年的薪水,是沒破百大概還差個14298塊啦
+
+但是一年之中還有國定假日雙十元旦之類的,
+
+這些都要有人值班,所以年薪是很容易破百的,
+
+所以年薪破不破百的關鍵在於你的加班費,
+
+台積還算有良心的,加班費很敢給,
+
+所以一樣的學歷進台積
+
+那薪水就是  設備&gt;製程&gt;RD
+
+因為輪班時間也是  設備 &gt; 製程&gt; RD
+
+這是我2010~2011 的情況,給你參考一下
+
+
+
+--
+--
+<span class="f1">◢██</span><span class="f1 b1"> </span><span class="f1">◣ </span><span class="b4 hl"> 表氏宗親家族聚會 </span><span class="f2">◢</span><span class="f2 b2">███</span><span class="f2">◣◢</span><span class="f2 b2">███</span><span class="f2">◣◢</span><span class="f2 b2">███</span><span class="f2">◣◢</span><span class="f2 b2">███</span><span class="f2">◣◢</span><span class="f2 b2">███</span><span class="f2">◣</span>
+<span class="f1">██</span><span class="f1 b3">◥◥</span><span class="f1 b1"> </span><span class="f1"> </span><span class="f1 b7"> 其他人呢? </span><span class="f1"> </span><span class="f2">◢</span><span class="b2 hl">表哥  </span><span class="f2 b2">█</span><span class="f2">◢</span><span class="b2 hl">大表弟</span><span class="f2 b4">█</span><span class="f2">◢</span><span class="b2 hl">二表弟</span><span class="f2 b2">█</span><span class="f2">◢</span><span class="b2 hl">三表弟</span><span class="f2 b2">█</span><span class="f2">◢</span><span class="b2 hl">四表弟</span><span class="f2 b2">█</span>
+<span class="f1">█</span><span class="f1 b3"> </span><span class="f0 b3">●</span><span class="f1 b3"> </span><span class="f0 b3">● </span><span class="f0"> </span><span class="f0 b7">◢</span><span class="f1"> </span><span class="f0 b3">▂</span><span class="b3 hl"> </span><span class="f0 b3">▂  ▕▂  ▂  ▕▂  ▂  ▕▂  ▂</span><span class="b3 hl">  ▕</span><span class="f0 b3">▂</span><span class="b3 hl"> </span><span class="f0 b3">▂</span><span class="b3 hl">  ▕</span>
+<span class="f1">█</span><span class="f3 b1">◥</span><span class="f3 b3"> </span><span class="f1 b3">︶◢</span><span class="f1"> </span><span class="f2 b2 hl">還在歐兔相認中</span><span class="f0"> </span><span class="f0 b3"> — —     ⊙⊙      - -       ^  ^     -⊙-⊙—  </span>
+<span class="f1 b1"> </span><span class="f1 b7"> </span><span class="f3 b7">◥</span><span class="b3">◢</span><span class="b7"> </span><span class="b1"> </span> <span class="f0 b2">◣</span><span class="f1"> </span><span class="f3 b3 hl"> </span><span class="b3 hl"> </span><span class="hl">▋</span><span class="f3 b3 hl"> </span><span class="b3 hl"> </span><span class="hl">▋</span><span class="f3 b3 hl"> </span><span class="b3 hl"> </span><span class="hl">▋</span><span class="f3 b3 hl"> </span><span class="b3 hl"> </span><span class="hl">▋</span><span class="f3 b3 hl"> </span><span class="f0 b3">皿 </span><span class="b3 hl"> </span><span class="hl">▋</span>

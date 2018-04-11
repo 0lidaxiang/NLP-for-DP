@@ -1,0 +1,56 @@
+版上曾經有前輩PO過ANA的劃位教學 <a href="/bbs/Japan_Travel/M.1215431734.A.61A.html" rel="nofollow" target="_blank">#18SWGsOQ</a>
+不過目前該部落格關閉中
+小弟就獻醜寫了一篇
+
+圖文版 <a href="http://alexcj.pixnet.net/blog/post/87133604" rel="nofollow" target="_blank">http://alexcj.pixnet.net/blog/post/87133604</a>
+
+Step.1
+
+拿出電子機票～
+
+一般旅行社開立的電子機票會是下面的款式，
+從上面可以找到「機票號碼」及「全日空航空 電腦代號」。
+另外也可以從全日空網站下載下列款式的電子機票，
+一樣可以找到「航空券番號」及「預約番號」。
+
+Step.2
+
+進入ANA官網 <a href="http://www.ana.co.jp/asw/wws/tw/ch/" rel="nofollow" target="_blank">http://www.ana.co.jp/asw/wws/tw/ch/</a>
+點選「確認訂位」按鈕。
+
+Step.3
+
+有三種方式可以進入系統，
+如果在訂票時有登錄ANA會員號碼，
+就可以使用ANA會員號碼進入，
+若沒有會員資格，
+則可以用「訂位代號」（全日空航空電腦代號、預約番號）或「機票號碼」（航空券番號
+）進行登錄。
+
+Step.4
+
+進入系統後，
+下圖兩個紅框分別可以取得「電子版的電子機票」及進行「網路Check-in」，
+不過「網路Check-in」僅限起飛前２４小時內才可以使用。
+
+系統畫面往下拉之後可以看到如下圖的申請項目，
+點選紅框中的「登錄／更改」鍵或「預選座位」鍵就可以進入選位系統。
+
+Final Step
+
+恭喜您已進入ANA全日空劃位系統，可以自由選擇你希望的座位了～
+（備註：日本國內線部分不開放線上劃位）
+
+PS.
+NH1083.NH1084劃位系統的A320 BUG到目前為止仍未修正（應該已經有將近一年了），
+過去桃園 - 東京成田的班次ANA曾用較小的機型A320執飛，
+系統座位圖顯示的是A320的座位圖，
+2011年暑期開始已改回較大型的767-300ER執飛，
+劃位系統仍顯示A320的座位圖，
+但此問題僅限於NH1083及NH1084，
+不過其他班次如NH1185.NH1186.NH1187.NH1188則正常。
+
+--
+<span class="hl">(╮￣皿￣)╮</span> <span class="f4 hl">吼嘎!!!</span>
+<span class="hl">  （╮〒▽〒)╮</span> <span class="f6 hl">阿~不行老爺~我是男的~~~</span>
+<span class="hl"> ╦=============╦</span>

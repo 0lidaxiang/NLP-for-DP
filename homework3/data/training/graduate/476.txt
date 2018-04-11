@@ -1,0 +1,37 @@
+<span class="f2">※ [本文轉錄自 <a href="/bbs/Master_D/M.1333872869.A.EF7.html" rel="nofollow" target="_blank">Master_D 看板 #1FWKZbxt</a> ]
+</span>
+作者: LFking (小均) 看板: Master_D
+標題: [分享] 碩博網外掛:停止跳出60分鐘警告
+時間: Sun Apr  8 16:14:26 2012
+
+各位菸酒生可能常常遇到下面狀況：
+
+<a href="http://tinyurl.com/7mu25z6" rel="nofollow" target="_blank">http://tinyurl.com/7mu25z6</a>
+
+
+這是小弟寫的一個Chrome外掛，可以讓大家盡情地掛在碩博網
+
+不用在那邊按60分鐘已到的確認取消鈕XD
+
+
+介紹:
+
+啥?為什麼碩博網速度越改越慢?
+
+啥??常常用到一半就提示60分鐘已到，
+
+而且還要按確認或取消，但是我有好幾百篇論文分頁啊
+
+我一整天都在那邊確認取消就飽了啊.....◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣
+
+只要安裝用這個小工具，
+
+碩博網絕對不會再提醒你已經瀏覽60分鐘哦(((&gt;(￣▽￣)&lt;)))!!
+
+
+安裝網址(Chrome web store)
+<a href="https://chrome.google.com/webstore/detail/nmkilbkmceadgakdipenhfkhdfbhdbpp" rel="nofollow" target="_blank">https://chrome.google.com/webstore/detail/nmkilbkmceadgakdipenhfkhdfbhdbpp</a>
+
+
+歡迎來按讚XD
+<a href="http://stumail.nutn.edu.tw/~s09855009/wtf_ndltd/" rel="nofollow" target="_blank">http://stumail.nutn.edu.tw/~s09855009/wtf_ndltd/</a>

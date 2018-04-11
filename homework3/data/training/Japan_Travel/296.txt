@@ -1,0 +1,45 @@
+網誌完整版：
+<a href="http://kevin695.blogspot.com/2012/02/2012-feb.html#more" rel="nofollow" target="_blank">http://kevin695.blogspot.com/2012/02/2012-feb.html#more</a>
+
+此行成員有我和女朋友兩人，配戴了一支android phone以及一支iphone 4s。
+
+其實本來只有租了一張b-mobile的3G網卡打算裝在4s上的，機緣
+巧合之下在ptt找資料看到有好心的大大剛歸國有預儲值完的卡時
+間剛好可以cover到我的旅行時間～ 就跟他借來用了！
+
+google官方更改了些地圖的資訊設定，目前官方以及第三方都找不
+到可以對"my maps"功能支援的app。相信很快就會有solution，所
+以如果想在android版的google map上看自己先找好的地標的話，
+唯一方式就是把地標打星星囉～ 只是不若"my maps"的編輯自由度那麼大而已。
+
+正當苦惱之際，瞄到了iOS上有個很威的app叫做
+<span class="f6 hl">"The Cartographer"</span>(真希望它哪天也可以移植到android上)
+個人的感想它真是旅行良伴，和google map一樣可以預載offline map。
+
+說到這點，預載地圖是個不錯的想法。尤其時您沒有打算連通網路時，至
+少可以應急一下。<span class="f1 hl">最好還是在做功課時，先切換到飛航模式。看看預載的
+</span><span class="f1 hl">離線地圖可以顯示出哪些資訊，對自己而言是否已經足夠！</span>
+
+"The Cartographer" 這個app它可以讀進您google account所編輯的
+"my maps"，只要有更新連上網時照理說就會同步了(不幫它背書，至少我用都ok)
+
+對我最實用的，是在對目的地navigate時。除了用google map顯示路線之外，
+還可以用<span class="f1 hl">compass(指南針)認路</span>，順便告訴你還離多少公尺。我不知道是不是
+iphone user都知道這樣用，或者android一樣可以。
+重點是當你對你站在的地方還有點茫然，搞不清楚天南地北時。
+它告訴你一個對的方向，雖然跟GPS定位的誤差有關，可能最後一個拐彎常常
+會發生過頭....
+
+附上此次關西行我自己用的地圖景點供大家參考：
+
+1. 京都地區 - <a href="http://g.co/maps/78726" rel="nofollow" target="_blank">http://g.co/maps/78726</a>
+2. 大阪地區 - <a href="http://g.co/maps/zmtjm" rel="nofollow" target="_blank">http://g.co/maps/zmtjm</a>
+3. 神戶地區 - <a href="http://g.co/maps/wt3n2" rel="nofollow" target="_blank">http://g.co/maps/wt3n2</a>
+
+--
+ ┌┐   ─┌┐── ┌┐  ┌ ┌──┐ ┌┐   ─
+ <span class="f4 hl">││  ╱</span><span class="f4 b5 hl"> ││    </span><span class="f4 hl"> </span><span class="f4 b5 hl">││  │ </span><span class="f4 hl">└</span><span class="f4 b5 hl">┐┌┘ │</span><span class="f4 hl">│   │</span>
+<span class="f4 hl">││╱  </span><span class="f4 b5 hl"> │</span><span class="f4 hl">│── </span><span class="f4 b5 hl">│</span><span class="f4 hl">│</span><span class="f4 b5 hl">  │ </span><span class="f4 hl"> </span><span class="f4 b5 hl">│</span><span class="f4 hl">│   ││＼ │</span>
+<span class="f4">││＼  </span><span class="f4 b5"> ││    </span><span class="f4"> </span><span class="f4 b5"> ╲╲╱  </span><span class="f4">┌</span><span class="f4 b5">┘└┐ │</span><span class="f4">│   │</span>
+<span class="f4">└┘  ─</span><span class="f4 b5"> └</span><span class="f4">┘</span><span class="f4 b5">──</span><span class="f4">   └</span><span class="f4 b5">┘   </span><span class="f4">└─</span><span class="f4 b5">─┘ └</span><span class="f4">┘   ─</span>
+<span class="f4"> </span><span class="f4 b5"> </span><span class="f4"> </span><span class="f4 b5"> </span><span class="f4"> </span><span class="f4 b5"> </span>

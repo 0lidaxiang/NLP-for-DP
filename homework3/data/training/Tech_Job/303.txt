@@ -1,0 +1,59 @@
+The area: Technical Infrastructure
+ Behind everything our users see online is the architecture built by the
+Technical Infrastructure team to keep it running. From developing and
+maintaining our data centers to building the next generation of Google
+platforms, we make Google's product portfolio possible. We're proud to be our
+engineers' eng
+ineers and love voiding warranties by taking things apart so we can rebuild
+them. We're always on call to keep our networks up and running, ensuring our
+users have the best and fastest experience possible.
+
+The role: Program Manager, Hardware Operations
+ Google's projects, like our users, span the globe and require managers to
+keep the big picture in focus while being able to dive into the unique
+engineering challenges we face daily. As a Technical Program Manager at
+Google, you lead complex, multi-disciplinary engineering projects using your
+engineering expertise. You plan requirements with internal customers and
+usher projects through the entire project lifecycle. This includes managing
+project schedules, identifying risks and clearly communicating them to
+project stakeholders. You're equally at home explaining your team's analyses
+and recommendations to executives as you are discussing the technical
+trade-offs in product development with engineers.
+
+Responsibilities:
+
+‧ Manage multiple, simultaneous data center projects from inception through
+completion
+‧ Gather requirements and define the scope of the project. Find resources,
+manage resource allocation for projects. Develop a plan and schedule, with
+well-defined milestones.
+‧ Manage communication of progress/status with customer groups in various
+locations and timezones; Own and nurture relationships between
+cross-functional teams
+‧ Remove roadblocks and keep processes running smoothly.
+‧ Define and develop cross-team roles, expectations, and responsibilities;
+drive process development and iterative optimizations.
+
+Minimum qualifications:
+
+‧ BA/BS degree (In lieu of degree, 4 years relevant work experience).
+
+Preferred qualifications:
+
+‧ Master's degree in a technical field.
+‧ Data Center operational background and 2 years of large scale project
+management experience.
+‧ Demonstrated ability/experience to manage complex projects involving team
+members from multiple disciplines and geographies; experience within complex
+organizational settings (e.g., PMO, geographic dispersion, etc.)
+‧ A strong sense of focus and excellent attention to detail while working in
+a very fast-paced environment.
+‧ Strong prioritization, multitasking, problem-solving and organizational
+skills; excellent communication, interpersonal, and analytical abilities.
+‧ Fluent in English and Mandarin Chinese
+
+==
+
+提供給大家
+
+更多資訊:<a href="http://www.facebook.com/TechLadders" rel="nofollow" target="_blank">http://www.facebook.com/TechLadders</a>

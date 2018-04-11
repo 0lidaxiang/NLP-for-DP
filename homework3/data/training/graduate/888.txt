@@ -1,0 +1,70 @@
+好奇看了一下這個排名介紹
+發現原文只提供部分的數據
+
+原文提供的是PPtop 10%的排名
+相關意義請自行參考
+<a href="http://www.leidenranking.com/methodology.aspx" rel="nofollow" target="_blank">http://www.leidenranking.com/methodology.aspx</a>
+
+
+如果是以Mean citation score 來排名
+
+結果如下
+
+1 Natl Yang-Ming Univ
+2 Natl Tsing Hua Univ
+3 Natl Taiwan Univ
+4 Natl Chung Hsing Univ
+5 Chang Gung Univ
+6 Natl Cheng Kung Univ
+7 Natl Chiao Tung Univ
+8 Natl Sun Yat-sen Univ
+9 Natl Cent Univ
+
+
+如果以Mean normalized citation score 來排名
+
+1 Natl Tsing Hua Univ
+2 Natl Taiwan Univ
+3 Natl Chung Hsing Univ
+4 Natl Chiao Tung Univ
+5 Natl Sun Yat-sen Univ
+6 Natl Cheng Kung Univ
+7 Natl Cent Univ
+8 Natl Yang-Ming Univ
+9 Chang Gung Univ
+
+Mean normalized citation score 有針對不同領域normalized
+所以會比Mean citation score準確
+
+但不管用哪一個排
+清華都在台大之前就是了
+雖然差距都不大
+
+這樣也不錯 讓最近只為了衝百大的台大有點警惕也好
+
+不過國內競爭也沒太多意義
+因為大家都在兩百名以外 有點慘淡
+
+其實還有一個排名是論文發表數的排名
+但這個意義不大 就不放了 這個當然是台大第一
+台大老師最多 沒第一也很奇怪
+
+
+<span class="f2">※ 引述《pudin2008 (布丁)》之銘言：
+</span><span class="f6">: ※ [本文轉錄自 <a href="/bbs/Gossiping/M.1334840840.A.AAF.html" rel="nofollow" target="_blank">Gossiping 看板 #1Fa0u8gl</a> ]
+</span><span class="f6">: <a href="http://www.leidenranking.com/ranking.aspx" rel="nofollow" target="_blank">http://www.leidenranking.com/ranking.aspx</a>
+</span><span class="f6">: 亞洲排名
+</span><span class="f6">:       Natl Tsing Hua Univ     4011    10.5%   台灣 清華大學 (台灣之光！！)
+</span><span class="f6">:       Peking Univ             9153    10.4%   大陸 北京大學
+</span><span class="f6">:       Univ Tokyo              18382   10.2%   日本 東京大學
+</span><span class="f6">: 中華民國排名
+</span><span class="f6">: Rank    University      Country P       PPtop 10%       PPtop 10% stability interval
+</span><span class="f6">: 1       Natl Tsing Hua Univ             4011    10.5%   清華
+</span><span class="f6">: 2       Natl Chiao Tung Univ            4473    9.5%    交大
+</span><span class="f6">: 3       Natl Chung Hsing Univ           2658    9.4%    中興
+</span><span class="f6">: 4       Natl Taiwan Univ                11302   8.9%    台大
+</span><span class="f6">: 5       Natl Cheng Kung Univ            7126    8.5%
+</span><span class="f6">: 6       Natl Sun Yat-sen Univ           2161    8.4%    中山
+</span><span class="f6">: 7       Natl Cent Univ                  2389    7.7%    中央
+</span><span class="f6">: 8       Natl Yang-Ming Univ             2531    5.5%
+</span>

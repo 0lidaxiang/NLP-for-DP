@@ -1,0 +1,51 @@
+
+
+
+
+原文: <a href="http://ppt.cc/58Qe" rel="nofollow" target="_blank">http://ppt.cc/58Qe</a>
+
+
+ARM, Imagination divvy up MIPS
+Junko Yoshida
+11/6/2012 9:41 AM EST
+
+NEW YORK -- MIPS Technologies, which had been on the block for almost a year,
+finally found buyers in a complicated deal involving Imagination Technologies
+and ARM.
+
+Imagination said Tuesday (Nov. 6) it has agreed to buy MIPS' operating
+business for $60 million. Under terms of the deal, the U.K. graphics IP
+vendor will gain 160 engineers and 82 MIPS patents.
+
+The move is viewed as a way for Imagination to beef up its CPU core expertise
+while defending its graphics lead. It would also position Imagination to
+competing against ARM, which has been pursuing its integrated CPU-GPU
+solution strategy.
+
+Separately, ARM said it will lead a consortium buying the rights to the MIPS
+portfolio of 498 patents. The consortium, called Bridge Crossing LLC, will
+pay $350 million in cash to purchase the rights to the portfolio, of which
+ARM will contribute $167.5 million.
+
+Bridge Crossing is an acquisition vehicle for Allied Security Trust (AST), a
+consortium of companies with a history of buying up patents. The consortium
+often sells off or licenses those patents. Consortium members include Avaya,
+HP, IBM, Intel, Motorola, Oracle, Philips, Research in Motion and others.
+
+J. Scott Gardner, a senior analyst at The Linley Group, said “ARM purchased
+rights to all of the MIPS patents, so they have legal peace.” What remains
+unclear, however, is whether companies such as Qualcomm, Broadcom and Apple
+will have to purchase their own licenses for access to the AST portfolio,
+Gardner added. “As I understand it, the entire purpose of AST is to keep
+patents from falling into the hands of trolls. I assume that these other
+companies are part of the AST group and are also safe," he said.
+
+Asked during a conference call, which companies belong to AST and who have
+access to the MIPS portfolio of 498 patents, Imagination and MIPS executives
+declined to provide names.
+
+Imagination CEO Hossein Yassaie did say 82 of the patents acquired in the
+deal cover key aspects of the MIPS architecture. That will help Imagination
+to move MIPS architecture "go forward," he noted, while protecting royalties
+coming from current and future MIPS licensees. Once the Imagination-MIPS deal
+is completed, MIPS royalties will go to Imagination, not to AST, Yassaie said.

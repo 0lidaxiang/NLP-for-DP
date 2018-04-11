@@ -1,0 +1,19 @@
+<span class="f2">※ 引述《pujols05 (qq)》之銘言：
+</span><span class="f6">: 小弟最近收到春源鋼鐵系統設計工程師-資訊部-台北的面試,
+</span><span class="f6">: 不知道版上大大有無面試過
+</span><span class="f6">: 想請問一下筆試考哪些方向或題型
+</span>
+春源 之前面試過
+就提供下我之前得心得
+
+首先報到 人資會撥段春源的簡介
+接下來會根據報到順序依序進入大房間面試(剩下人員在小房間寫考卷,題目很簡單(java 跟sql 還有mvc的概念..etc)
+面試是一對多(我記得是1對5)大概都是根據履歷衍生的問題
+
+在撥放公司簡介完後人資會說公定價的新人待遇  (注意在面試個人資料上會請你寫上希望待遇 要寫實際數字 千萬不要寫面議 不然人資會在請你寫張小紙條註明薪資)
+
+蠻中歸中矩(男生要穿制服打領帶)的一家公司 一些經驗 供您參考
+
+--
+<span class="f0 hl">posted from</span> <span class="hl">android bbs reader</span><span class="f0 hl"> on my </span><span class="hl">samsung GT-I9100</span>
+<a href="https://market.android.com/details?id=com.bbs.reader" rel="nofollow" target="_blank"><span class="f0">https://market.android.com/details?id=com.bbs.reader</span></a>

@@ -1,0 +1,98 @@
+<span class="f2">※ 引述《kill2400 (wei)》之銘言：
+</span><span class="f6">: 最近有收到華碩 手持部門的email offer
+</span><span class="f6">: 沒記錯應該是跟padfone 相關的
+</span><span class="f6">: 不知道這個部門的風氣是如何
+</span><span class="f6">: 我知道華碩都還滿晚下班的
+</span><span class="f6">: 但是會到幾點啊??
+</span><span class="f6">: 話說 BSP 大概是甚麼啊??
+</span><span class="f6">: 可以學到很多東西嗎??
+</span><span class="f6">: 希望版上大大可以幫忙回答
+</span><span class="f6">: 謝謝
+</span>
+BSP是什麼? 英文縮寫是board support package
+
+它是怎麼來的? 一般來說，就是晶片供應商給的一包code
+
+以Android系統來說，晶片供應商最大的幾家就是Qualcomm, TI, Nvdia等等, 台灣就MTK
+
+這一包code其實從Linux到Android都有，也就是說他是一包完整可以用的code
+
+
+那你說，都能用了還要BSP team幹麻?
+
+以系統廠來說，BSP的主要工作就是"處理"供應商的這包code。推文說到BSP工作很雜，
+
+的確，因為光是要"處理"這包code就夠麻煩了。BSP team的工作首先是要讓這包code
+
+燒進這個project的板子可以開機，開完機進android後，各個function (touch, LCM,
+
+keypad, camera, BT, WIFI, USB, blablabla...)可以動。這是project前期的工作。
+
+運氣好，板子沒問題的話，這些components都好點亮。但是代誌絕對沒有長官們想的那麼
+
+簡單，板子，單體元件總是會有一堆問題(我們簡單的說就是hardware問題，但是通常都是
+
+要BSP幫他們找出問題)。光是點亮這些components就要很多時間與心力來debug。那要怎麼
+
+點亮這些東東? 以SW的解釋來說就是要靠driver來讓它動起來。如果產品規劃的人有跟BSP
+
+team討論過，盡量挑晶片供應商有support的driver會讓你少花很多力氣(但是不見得就不
+
+會有問題)。如果沒有呢? 想辦法抄，改，K書，google，自己找reference code來搞，
+
+當然這其中還包含了跟各元件供應商的co-work。
+
+這個是project前期，我們姑且簡單稱之為讓你負責的component"動起來"或是"點亮"。
+
+用假掰的英文就叫做"bring-up"。
+
+
+接著，project開始run，pilot run一直打。有些公司的BSP除了上述的工作，還得負責
+
+工廠端的驗證程式，這先不做贅述。project中期開始會收到QA們陸陸續續發的bug or
+
+issue，然後你的工作就是debug，要在最短的時間內解決最多的bug，這其實就是系統廠
+
+RD的價值(其實也就是工作內容)。你可能會問，不都會動了，有啥bug好解?
+
+是阿，理想上是這麼說沒錯，但是總是會有"很多"bug是來自 1.自家的硬體(版端)問題
+
+2. 元件供應商的問題 3.晶片供應商的問題 4.自家driver沒寫/tune好 (code是人寫的
+
+，即使是晶片供應商給的driver不見得就沒問題) 5.google Anroid本身的問題 6.AP的問
+
+題等等...問題來源絕對不只這些，但是你要有辦法分析出來問題的來源。硬體問題要請
+
+HW改，來自供應商的問題就請他們幫忙解，或是有些經驗或夠強的話就自己解。BSP守備
+
+範圍大抵上是driver到HAL (HAL是什麼? google看看吧~) 那當然為了要分析問題也要順便
+
+喵一下Framework在搞些什麼鬼讓我們底層出問題，這樣才好把問題丟給別人看以不至於
+
+被凹說是BSP的問題。那要做這些事情你"最好"要有一些電路學的基本認識，然後對作業
+
+系統(OS)也要瞭解一點，最好也要有一些基本的物件導向概念(for HAL, Framework, AP)
+
+。會說"最好"，意思也就是非必要，因為很多人沒有這些概念也是在系統廠做BSP，我自
+
+己就是^^"。
+
+
+到了後期，產品出貨了，不代表你沒事，因為新的案子又開了。舊的案子還有很多bug沒
+
+解完(趕著出貨咩~)，還會有客戶跟自家反應的新問題要繼續看。雖然說BSP team是歸類在
+
+"軟體"部門，但是做的事情很多都跟軟體無關，工作內容也是改code而非寫code。如果想
+
+像學生時代自己寫很多code，那建議你去找純軟體的公司會有比較多機會。
+
+
+大致上介紹就是這樣，有錯誤的部份還請鄉民們補充與改正囉XD
+
+
+
+
+
+
+
+

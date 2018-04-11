@@ -1,0 +1,18 @@
+<span class="f2">※ 引述《BearJW ( )》之銘言：
+</span><span class="f6">: 用若干個砝碼組合出1～100公克，
+</span><span class="f6">: 請問砝碼最少數量為幾個?
+</span><span class="f6">: 題目本身不好懂，我一開始還誤解了意思= =
+</span><span class="f6">: 我在解題的時候一直想到建構式數學，因為我的年代沒學過建構式。
+</span><span class="f6">: 不知道有沒有關聯?
+</span><span class="f6">: 理論上用100個1公克的砝碼可以組合出1～100個任意公克數。
+</span><span class="f6">: 比如說79公克，可以用79個1公克。
+</span><span class="f6">: 也可以用一個50公克、一個25公克、一個4公克來組成。
+</span><span class="f6">: 也可以用一個75公克、兩個2公克來組成。
+</span><span class="f6">: 不知道這題有沒有速解法?因為我是用土法煉鋼兜起來的<a class="__cf_email__" data-cfemail="032d2d2d43" href="/cdn-cgi/l/email-protection">[email protected]</a>@
+</span>
+lg(100) ~ 7
+
+1g, 2g, 4g, 8g, 16g, 32g, 64g.
+
+以上七個砝碼可以組成任意公克數
+
