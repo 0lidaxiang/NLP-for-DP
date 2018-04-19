@@ -1,0 +1,12 @@
+
+之前3D驗證都很順利沒有出過問題
+
+今天一直刷不過...
+
+出現以下字串(我直接貼google翻譯的網址XD)
+<a href="http://goo.gl/JwcBM" rel="nofollow" target="_blank">http://goo.gl/JwcBM</a>
+
+看翻譯大意是說請我去更改cookie設定設為允許甚麼的
+
+請問也有人最近是這樣嗎?
+以及到底從哪改呢(抱頭

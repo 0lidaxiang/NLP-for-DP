@@ -1,0 +1,57 @@
+<span class="f2">※ [本文轉錄自 <a href="/bbs/job/M.1352115443.A.884.html" rel="nofollow" target="_blank">job 看板 #1GbwJpY4</a> ]
+</span>
+作者: Sedtionaries (Sedtionaries) 看板: job
+標題: [台北] 藝珂人事-信義區-PHP網頁開發工程師
+時間: Mon Nov  5 19:37:20 2012
+
+
+
+<span class="b1 hl">job版禁止張貼違反「</span><span class="f3 b1 hl">就業服務法</span><span class="b1 hl">」、</span><span class="b1">「</span><span class="f3 b1 hl">性別平等工作法</span><span class="b1">」、</span><span class="b1 hl">「</span><span class="f3 b1 hl">勞基法</span><span class="b1 hl">」與其他法律之文章</span>
+<span class="b1 hl">發文者已同意一切遵循現行法律，並確知文責自負。本工作確實勞健保!
+</span><span class="b4 hl">此兩行刪除，文章會被刪除不另通知。</span>
+<span class="f2">※</span>請各位資方配合遵守。
+
+
+<span class="f2 hl">【公司名稱】</span> 台灣藝珂人事代徵
+<span class="f2">※沒有填寫公司名稱將會被刪文。</span>
+<span class="f2">※人資沒有填寫人資公司名稱將會被刪文。</span>
+<span class="f2 hl">【工作職缺】</span> 知名嬰幼兒網站-誠徵PHP網頁開發工程師
+
+
+<span class="f2 hl">【工作內容】</span>
+1.網頁維護與開發
+2.可立即上手
+
+<span class="f2 hl">【徵求條件】</span>
+1. PHP+MySQL 開發經驗四年以上
+2. 熟悉 PHP Template Engine (Smarty尤佳)
+3. 熟悉Javascript (jQuery.js or Prototype.js),
+   Ajax, CSS , HTML, DHTML, XML, DOM
+4. 熟悉Linux系統環境
+5. 具SA, SD能力, 能獨力作業
+6. 負責任且有良好溝通能力
+7. 喜歡接觸/分享新事物、新技術
+8. 有專案管理經驗者佳
+9.專科以上~無須出差
+##精通Linux,PHP,HTML,JavaScript,mysql
+
+<span class="f2 hl">【工作地點】</span> 市政府捷運站
+
+<span class="f2 hl">【工作時間】</span> 0900-1800
+
+<span class="f2 hl">【月休】</span> 週休二日、見紅就放
+
+<span class="f2 hl">【公司福利】</span> 比照公司及勞基法辦理
+
+<span class="f2 hl">【薪資範圍】</span> 月薪50K-75K (可面議)
+
+<span class="f2 hl">【需求人數】</span> 4人
+
+<span class="f2 hl">【聯絡人/連絡方式】</span> <a class="__cf_email__" data-cfemail="54313939357a3c21353a331435303137373b7a373b39" href="/cdn-cgi/l/email-protection">[email protected]</a> (代PO勿回)
+
+應徵方式:將完整履歷表附照片含自傳寄至聯絡人信箱!
+
+<span class="f2 hl">【其他備註】</span>
+1.公司風氣活潑、親切
+2.無需出差
+3.喜歡嬰幼兒的人會很喜歡這裡

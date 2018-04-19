@@ -1,0 +1,57 @@
+國立大學電機碩士(因為一些原因多唸了幾年)
+做Vcore控制最佳化演算法的模擬研究~
+一篇journal的期刊正要summit~
+最主要是應徵電源類的工作~
+
+
+狀況資訊：
+1.目前唯一有的口頭offer為鴻海的電源工程師(CMMSG 主板設計)
+主要是解決HP主板的電源部份正常動作即可~
+因為以新幹班名義進去所以要先去大陸受訓一個月~
+聽說是帶apple產線，以後應該也會常大陸出差~
+真正薪水要等人資小姐幫我估完人事資料後才會了解~
+主管說薪資以碩士底薪~但現在沒有股票~
+宿舍3千多塊但不一定排的到~
+8點上班，平均7點半下班~
+技術層面並沒有談得很深入~
+
+2.另一間力智科技為電源管理IC的設計公司~
+現在為華碩的子公司~
+因為長年跟立錡訴頌所以單接很少~
+<a href="http://www.global.idv.tw/article.asp?id=21480" rel="nofollow" target="_blank">http://www.global.idv.tw/article.asp?id=21480</a>
+之後大部份會供應華碩的產品~
+FAE主管面談完後~
+他覺得依我的研究比較適合做AE工作~
+接下來要幫我轉給竹北的AE主管面試~
+FAE主管談及的AE工作為~
+讀PAPER、做IC測試、規化IC架構、量測訊號、模擬分析~
+好讓IC符合客戶需求的規格~
+
+
+優缺討論：
+在1的雖然可能學不到啥技術，
+但好處是大公司的出差增加視野(不見得每個人都認同)~
+大小主管人都不錯~
+未來性可能就是往管理職方面前進~
+缺點就是要東奔西跑~往後要丟開技術~
+
+2現在股價很低，但今天ITC巳經判力智勝訴，
+一些股民的討論覺得是技術與業務的層面未來性很高~
+<a href="http://www.berich.com.tw/dp/talktalk/talk_detail.asp?ii=84683" rel="nofollow" target="_blank">http://www.berich.com.tw/dp/talktalk/talk_detail.asp?ii=84683</a>
+但以個人來說，AE的工作可能會在RD與FAE中間~
+所以應該會常常陪RD看月亮~
+好處想就是可以學到技術跟經驗值~
+也可看到RD看不到的層面~
+未來性可以轉做FAE~
+
+
+不知道各位有什麼樣的看法、資訊和建議？
+謝謝~
+
+--
+ <span class="f3 hl">◥█████ </span><span class="f3 b3 hl"> </span><span class="f3">◣</span><span class="f0 b3">◣   "      "   ◢◤       </span><span class="f3 b3">▉</span><span class="f3"> </span><span class="f3 hl">█████◤╱</span>
+<span class="f3 hl">◥███ </span><span class="f0 b3">▍         </span><span class="f3">◤  </span><span class="f0 b3">◣          ◢</span><span class="f0">◤</span><span class="f0 b3">◣         </span><span class="f3">▏</span><span class="f3 hl">███◤</span>
+<span class="f3 hl">◢██</span><span class="f0 b3">▋          </span><span class="f0"> </span><span class="f0 b3"> </span><span class="f0"> ●   </span><span class="f0 b3"> </span><span class="f3">▎</span><span class="f3 hl">██◣     </span><span class="hl">都是幻覺</span>
+<span class="f3 hl">◢████</span><span class="f0 b3">▌          </span><span class="f3">◣▂▄</span><span class="f3 b3"> </span><span class="f0 b3">』    </span><span class="f3">▅▃◢</span><span class="f3 b3"> </span><span class="f3">▍</span><span class="f3 hl">████◣</span>
+<span class="f3 hl">◢██</span><span class="f0 b3">▋   </span><span class="f1 b3 hl">///////   </span><span class="f3">▋ </span><span class="f0 b3">▇▆▆▇██   </span><span class="f1 b3 hl">///////   </span><span class="f3">▎</span><span class="f3 hl">██◣       </span><span class="hl">嚇不倒我的</span>
+<span class="f3 hl">◢███</span><span class="f0 b3">▊             </span><span class="f3">▊  </span><span class="f1">▂▃▃▂ </span><span class="f0 b3">▊           </span><span class="f3">█▏</span><span class="f3 hl">███◣</span>

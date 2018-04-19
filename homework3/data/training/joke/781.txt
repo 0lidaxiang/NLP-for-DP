@@ -1,0 +1,10 @@
+ans : 路行鳥
+
+--
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Imjizz</span><span class="f3 push-content">:開始進擊</span><span class="push-ipdatetime">07/13 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aramilcat</span><span class="f3 push-content">:     的巨</span><span class="push-ipdatetime">07/13 19:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckiy244</span><span class="f3 push-content">:           神兵</span><span class="push-ipdatetime">07/13 19:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OolightoO</span><span class="f3 push-content">:             舉起他的雙手</span><span class="push-ipdatetime"> 07/13 19:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qscxz</span><span class="f3 push-content">:                             搓揉著</span><span class="push-ipdatetime">07/13 19:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PigDogNoIf</span><span class="f3 push-content">:                              我的懶覺</span><span class="push-ipdatetime"> 07/13 19:10
+</span></div>

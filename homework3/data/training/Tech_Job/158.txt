@@ -1,0 +1,77 @@
+<span class="f2">※ 引述《jawa7026 ()》之銘言：
+</span><span class="f6">:         聽說hTC在開發android手機的時候, 修正了很多android的bug
+</span><span class="f6">:         但是都不回報給google, 惹惱了google
+</span><span class="f6">:         後來nexus手機就轉往Samsung去做了
+</span><span class="f6">:         請問這是真的嗎??  還是科技業的都市傳說? XD
+</span><span class="f6">:         不回報給google其實還蠻能理解的, 把辛苦解的問題回報給google
+</span><span class="f6">:         然後google灑下去給其他手機廠, 是我也感覺很不是滋味
+</span>
+其實我想回的是推文……
+
+→ jokker:台灣公司都不照OpenSource規則玩                           10/29 01:03
+推 shter:看授權方式吧 , GPL 修完後用在自己身上也要開放原始碼       10/29 01:06
+→ shter:這是一種"分享"的概念,今天你修完報給別人,改天他們報給你    10/29 01:06
+→ shter:原本是立意良善,集思廣益一起把程式做到最好                 10/29 01:06
+
+推 teramind:android不是佛心授權 沒有樓上的這種事 跟linux本身無關   10/29 01:36
+→ teramind:那篇文章記得是從m01出來 學生訪問HTC學長工程師的文章    10/29 01:38
+→ cka:我也印像看過那篇                                            10/29 01:59
+推 giantwinter:GPL囉 GOOGLE灑給你他怎麼不會不爽                    10/29 02:11
+→ saladim:不太可能是GPL, 最近宏碁才被古哥打了好大一個巴掌         10/29 02:37
+
+我不知道版上有多少跟我一樣是搞android bsp的，
+android codebase裡確實有GPL2 及 BSD 授權，
+不管是GPL2 亦或是 BSD，這都有感染力，
+意即我今天function call過來 call過去，即使是某顆IC driver，
+放在android底下，光起始的註冊driver、註冊device這兩個functions，
+你就已經感染到了GPL2 授權。
+很多程式碼打開你就可以看到 GPL2 宣言，何來不太可能之說?
+
+以下宣言就擷取自 /kernel/arch/arm/mach-msm/board-8960.c
+
+/* Copyright (c) 2011-2012, Code Aurora Forum. All rights reserved.
+* This program is free software; you can redistribute it and/or modify
+* it under the terms of the GNU General Public License version 2 and
+* only version 2 as published by the Free Software Foundation.
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+* */
+
+→ qweqweqweqwe:有時候也會發現一些很細微的bug  也是別家手機廠      10/29 06:39
+→ qweqweqweqwe:默默的修掉                                         10/29 06:39
+
+有一個很經典的Bug，我們每次都得修掉，也就是說，
+從沒有人回報patch給CodeAurora、google等upstream
+像是：
+(1) 藍芽可以設定可供偵測的時間，2分、5分、……到 永久
+(2) 螢幕也有一個閒置多少便自動關閉的時間，15秒、30秒、……到10分
+
+製造bug steps:
+(1) 進藍芽設定畫面，設定藍芽可供偵測時間，使得(2)時間 &lt; (1)時間
+(2) 把可供偵測打勾，等待螢幕因閒置而關閉
+(3) 默數(等待)可供偵測時間過去，按power key 叫醒device
+(4) 發現倒數時間停留在 00:00 ，且此時手機仍可被週邊藍芽裝置偵測到
+
+看似沒什麼，對吧? 但，這會增加耗電，一點點的耗電，我們都會被追打……
+這個倒數時間，只要你再點一下螢幕或做其它動作，就會恢復該有的狀態
+
+
+patch為何不能往上送?
+1、RD們進來都有簽一個東東，意即你在職期間一切想出來的，做出來的，寫出來的
+   都是公司的，那公司不照遊戲規則玩，就算我本身懂自由軟體也無可奈何。
+2、客戶不想別人也解了這Bug，意即我解得比較多，我的產品比較沒問題，
+   想要藉此保有一些競爭力也是可以理解。
+3、android codebase 通常由客戶(OEM) 釋出，而不是代工廠。
+   可想而知，ODM給OEM時也許會拔掉一些patch，然後OEM釋出的時候可能又……
+
+
+(好了，我想我該睡了，我只是指出我所遇到及看到的，請勿筆戰，感謝。)
+
+--
+                 <span class="hl">我很正吧~~</span>╲ <span class="f0 b7">◤     </span><span class="f0 b7 hl">◢</span>
+                          ─  <span class="f0 b7"> </span><span class="f0 b7 hl">█</span>
+                            ╰<span class="f0 b7"> &gt;  &lt;  </span><span class="f0 b7 hl">█</span>
+<span class="b7"> </span><span class="f0 b7"> ▽</span><span class="b7"> </span><span class="f0 b7">﹀</span><span class="f0 hl">◤</span>
+<span class="f0"> </span>▕ <span class="f0"> </span> ▏                                           

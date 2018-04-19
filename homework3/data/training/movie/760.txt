@@ -1,0 +1,56 @@
+語氣可以好一點，之前一位雖然他有說錯的部分，不過你也有錯，
+大家切磋不要一副只有你對的樣子。
+
+<span class="f2">※ 引述《hifree (hifree)》之銘言：
+</span><span class="f6">: 呵呵
+</span><span class="f6">: 錯誤的知識就不要誤導大眾了好嗎
+</span><span class="f6">: ※ 引述《bpf1980 (半瓶醋)》之銘言：
+</span><span class="f6">: : 在推文回覆太困難了，所以另開一篇回應
+</span><span class="f6">: : 小弟身為媒體業的工作者，在此提供解惑
+</span><span class="f6">: : 這個問題其實有點小複雜
+</span><span class="f6">: : 有幾種可能
+</span><span class="f6">: : 1.先天性的底片的化學反應方式與電子攝影機的差異
+</span><span class="f6">: : 首先，底片這種東西是類比的，而且他的原理，是一張焦片上頭塗了數層化學藥劑
+</span><span class="f6">: : ，就像蛋糕一樣一層一層的，每一層藥水產生化學反應的時候就會顯現出不同的顏色，
+</span><span class="f6">: : 當拍攝的時候，鏡頭的光跑進攝影機裡頭裝好的底片，光線照到那些塗層就會起反應，
+</span><span class="f6">: : 所以底片本身在感光的時候，如果我們用顯微鏡來看底片，看起來會凹凸不平，所以
+</span><span class="f6">: : 底片拍攝出來的影片所顯現出來的立體感會比數位攝影機來得好，這也是為什麼那位
+</span><span class="f6">:   Really?
+</span><span class="f6">:   那你一定沒看過Foveon X3感光元件拍出來的照片
+</span><span class="f6">:   其立體感不輸底片
+</span><span class="f6">:   所以問題不在於顆粒
+</span><span class="f6">:   而是BAYER感光元件的天生缺陷
+</span><span class="f6">:   <a href="http://www.mobile01.com/topicdetail.php?f=544&amp;t=3272637&amp;p=2" rel="nofollow" target="_blank">http://www.mobile01.com/topicdetail.php?f=544&amp;t=3272637&amp;p=2</a>
+</span>
+立體感之類的感覺，來自於動態範圍以及色彩還原，
+
+Sigma 的Foveon X3 也不是就一定打趴Bayer排列
+
+光是動態範圍，三層重疊的X3在低光源的地方就是慘烈，
+而且顏色資訊經過抽樣之後，產生的影響遠大於感光元件本身，
+你可以去看看Red one Epic 的毛片，立體感跟底片機的差異。
+
+<span class="f6">: : 堅持使用底片拍攝的導演克里斯多福諾蘭在面對記者詢問會不會拍攝3D電影的時候，
+</span><span class="f6">: : 曾經回應過--我現在拍的電影本來就是3D了。
+</span><span class="f6">: : 另外由於感光是用化學反應的關係，所以有的時候人物的輪廓就有一種像水墨一樣
+</span><span class="f6">: : 醞開的感覺，放映的時候也表面也會有很多細小的粒子在畫面上頭跑來跑去～像你
+</span><span class="f6">: : 所提的教父就非常明顯。
+</span><span class="f6">: : 不過以上的這些特點，其實現代即使使用數位攝影拍攝，在後製的時候想要這種感覺
+</span><span class="f6">: : 還是可以加上去的，並不是非要底片才能辦到。
+</span><span class="f6">: : 過去這些特點其實是一些導演覺得底片攝影會產生的缺點，然而到了現在，很多導演
+</span><span class="f6">: : 反而會覺得這是底片的獨特美感。而有些導演並不在乎這一點，於是電影就不會有那
+</span><span class="f6">: : 些復古的問題，像是星際大戰二部曲就非常明顯的完全可以看出來是用電子攝影機拍
+</span><span class="f6">: : 的。
+</span><span class="f6">: : 不過還有一點要提，因為現在大家看電影的媒體已經很少在用焦卷放映了，所以即使
+</span><span class="f6">: : 電影本來是用焦卷拍的，也會轉到數位檔案裡頭，在這個過程當中一些過去的電影
+</span><span class="f6">: : 會經過數位修復，而數位修復的結果也會造成一些影片的人物輪廓邊緣看起來會比原
+</span><span class="f6">: : 來的還要銳利，尤其是一些壓縮過的電影DVD當中，這一點會很明顯。
+</span><span class="f6">:   這裡就大錯特錯了
+</span><span class="f6">:   如果你有玩過相機的話
+</span><span class="f6">:   就知道數位與類比的差異不在銳利度
+</span><span class="f6">:   而在反差
+</span><span class="f6">:   正片的動態範圍至少都3.2起跳
+</span><span class="f6">:   黑白正片甚至可以達到4.0
+</span><span class="f6">:   但一般負片至多只有2.3
+</span><span class="f6">:   而DSLR大多在8EV~9EV左右
+</span><span 

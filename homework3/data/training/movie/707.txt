@@ -1,0 +1,146 @@
+<span class="f2">※ 引述《yor73275roy (黑豬)》之銘言：
+</span><span class="f6">: 有時候看電視轉到一些電影台
+</span><span class="f6">: 都已經改放高畫質的電影
+</span><span class="f6">: 雖然真的是超級清楚
+</span><span class="f6">: 可是看起來就是有一種說不出來的怪
+</span><span class="f6">: 很清楚但很不真實
+</span><span class="f6">: 反而看一些以前的電影,像教父之類的
+</span><span class="f6">: 雖然有一點糊糊 但卻很自然
+</span><span class="f6">: 不知道有沒有人有跟小弟一樣的感覺?
+</span>
+在推文回覆太困難了，所以另開一篇回應
+小弟身為媒體業的工作者，在此提供解惑
+
+4月19日修正～在和elfguard討論過後～修改了關於底片這邊的說法
+
+另外，小弟其實是希望更多不熟悉這些知識的朋友能夠沒有壓力
+的瞭解，所以我在解答當中，儘量排除使用專有名詞來解釋，
+如果真的有需要用到專有名詞的情況，也會解釋這個名詞，
+因為我個人的認知當中，文章寫出來就是要淺顯易懂，而不是賣弄
+詞藻故弄玄虛的～所以一些有專業背景的朋友們如果覺得我使用
+的形容太過簡單的話還請見諒
+
+另外，因為我自己的工作是剪接師與編導，媒體業事實上分工很細，
+所以我並不見得一定會非常了解攝影或是動畫等所有的影音工程，
+目前這裡的解釋有很多是來自於平日工作時遇到的情況以及一些專業
+人士所提供的說法，坦白說我自己並不敢保證自己全都是對的，
+如果有人要指正我的錯誤，歡迎提出，我會回去詢問我所認識影音工
+程專業人士，並且隨時修正我的本文。
+
+
+這個問題其實有點小複雜
+有幾種可能
+
+1.先天性的底片的化學反應方式與電子攝影機的差異
+
+首先，底片這種東西是類比的，而電子攝影機則是數位的。
+底片的原理，是在一張焦片上頭塗數層化學藥劑，就像蛋糕一樣一層一層的，每一層藥
+水產生化學反應的時候就會顯現出不同的顏色，當拍攝的時候，鏡頭的光跑進攝影機裡
+頭裝好的底片，光線照到那些塗層就會起反應，所以底片本身在感光的時候，由於感光
+是用化學反應的關係，人物的輪廓就有一種像水墨一樣醞開的感覺，而數位則是使用像
+素一點一點的排起來的，數位好像階梯，而類比就好像斜坡，中間過渡的部份當然是底
+片比較自然，而數位的容易比較乾淨清楚，底片好比水彩畫，人物的輪廓邊緣是醞開的
+，數位則好比剪紙畫，人物邊緣則是像刀一樣地切開的
+
+另外，根據一位業界攝影師提供給我的另一個說法（我自己並不清楚這個說法的正確性
+）由於底片本身藥水的塗層反應有高低差，如果我們用顯微鏡來看底片，看起來會凹凸
+不平，所以底片拍攝出來的影片所顯現出來的立體感會比數位攝影機來得好，這也是為
+什麼那位堅持使用底片拍攝的導演克里斯多福諾蘭在面對記者詢問會不會拍攝3D電影的
+時候，曾經回應過--我現在拍的電影本來就是3D了。
+
+不過以上的這些特點，其實現代即使使用數位攝影拍攝，在後製的時候想要這種感覺
+還是可以加上去的，並不是非要底片才能辦到。
+
+過去這些特點其實是一些導演覺得底片攝影會產生的缺點，然而到了現在，很多導演
+反而會覺得這是底片的獨特美感。而有些導演並不在乎這一點，於是電影就不會有那
+些復古的問題，像是星際大戰二部曲就非常明顯的完全可以看出來是用電子攝影機拍
+的。
+
+不過還有一點要提，因為現在大家看電影的媒體已經很少在用焦卷放映了，所以即使
+電影本來是用焦卷拍的，也會轉到數位檔案裡頭，在這個過程當中一些過去的電影
+會經過數位修復，而數位修復的結果也會造成一些影片的人物輪廓邊緣看起來會比原
+來的還要銳利，尤其是一些壓縮過的電影DVD當中，這一點會很明顯。
+
+教父的片段
+<a href="http://www.youtube.com/watch?v=SWAJPB_5rSs&amp;hd=1" rel="nofollow" target="_blank">http://www.youtube.com/watch?v=SWAJPB_5rSs&amp;hd=1</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe allowfullscreen="" class="youtube-player" frameborder="0" src="//www.youtube.com/embed/SWAJPB_5rSs" type="text/html"></iframe></div></div></div>
+星際大戰二部曲的片段
+但是這樣比其實並沒有很公平，因為星際大戰是在籃幕拍的
+他們的邊緣銳利主要還有因為是在籃幕底下的結果
+<a href="http://youtu.be/BY2FpPGrC-w" rel="nofollow" target="_blank">http://youtu.be/BY2FpPGrC-w</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe allowfullscreen="" class="youtube-player" frameborder="0" src="//www.youtube.com/embed/BY2FpPGrC-w" type="text/html"></iframe></div></div></div>
+
+2.格率不同的結果
+
+過去一般電影的拍攝一秒只有24格（也就是一秒會有24張照片的意思），台灣地區的
+電視播送系統則是30格（或是29.97格），所以觀眾一直都很習慣在看電影會有點頓
+頓的感覺，可是當進了電影院之後，如果看到像電視般格率就會覺得自己好像在看電
+視，其實這是挺有趣的矛盾，就算現在，我們工作的時候有時候製作所謂微電影這類
+的商品之時，也會為了讓客戶覺得作品更像電影，而採用24格來拍攝或是剪輯。這道
+理其實就像我們看到16：9的寬螢幕和4：3的全螢幕時，會自然而然的認為前者才是
+電影的判斷。
+
+看魔戒前傳就會很明顯的有這種感覺，因為他的每秒格率是48格。
+
+然後有一些LCD電視或是放映機會有一個很機婆的動態補償功能，這也會讓原本24格
+的影片看起來像30格，我的PS3在放映電影的時候就會出現這種現象，坦白說我也很
+討厭這樣。
+
+這邊有一段影片可以看到24格和29.97的不同
+<a href="http://youtu.be/2JytdgV2Skw" rel="nofollow" target="_blank">http://youtu.be/2JytdgV2Skw</a>
+<div class="richcontent"><div class="resize-container"><div class="resize-content"><iframe allowfullscreen="" class="youtube-player" frameborder="0" src="//www.youtube.com/embed/2JytdgV2Skw" type="text/html"></iframe></div></div></div>
+2015年的補充，這邊有一張GIF動畫，很簡單明瞭的展示了三種不同格數的影片
+的不同視覺效果
+<a href="http://cdnzz.ifanr.com/wp-content/uploads/2015/01/vkz7t5mur1ay0z3f20nq.gif" rel="nofollow" target="_blank">http://cdnzz.ifanr.com/wp-content/uploads/2015/01/vkz7t5mur1ay0z3f20nq.gif</a>
+<div class="richcontent"><img alt="" src="http://cdnzz.ifanr.com/wp-content/uploads/2015/01/vkz7t5mur1ay0z3f20nq.gif"/></div>
+
+3.景深不同
+
+所謂的景深，簡單的來說就是畫面的模糊度
+
+像這張照片
+<a href="http://zh.wikipedia.org/wiki/File:Kittyplya03042006.JPG" rel="nofollow" target="_blank">http://zh.wikipedia.org/wiki/File:Kittyplya03042006.JPG</a>
+<div class="richcontent"><img alt="" src="http://zh.wikipedia.org/wiki/File:Kittyplya03042006.JPG"/></div>
+貓咪的臉只有面孔的部位清楚而已，所以他的景深相對來說比較淺
+
+這張照片的景深也是屬於相對比較淺的
+<a href="http://zh.wikipedia.org/wiki/File:Jonquil_flowers_at_f5.jpg" rel="nofollow" target="_blank">http://zh.wikipedia.org/wiki/File:Jonquil_flowers_at_f5.jpg</a>
+<div class="richcontent"><img alt="" src="http://zh.wikipedia.org/wiki/File:Jonquil_flowers_at_f5.jpg"/></div>
+而這張照片的景深就比前面那張還要深
+<a href="http://zh.wikipedia.org/wiki/File:Jonquil_flowers_at_f32.jpg" rel="nofollow" target="_blank">http://zh.wikipedia.org/wiki/File:Jonquil_flowers_at_f32.jpg</a>
+<div class="richcontent"><img alt="" src="http://zh.wikipedia.org/wiki/File:Jonquil_flowers_at_f32.jpg"/></div>
+當然其中牽涉到一些攝影光圈 相對距離的原理，這邊就不詳述了
+
+
+台灣的電視連續劇所使用的攝影機，基本上沿用了原本設計來拍攝新聞用的攝影機鏡
+頭，這種鏡頭是為了要快速抓到畫面的焦距而設計，所以拍出淺景深的條件比較嚴苛
+，有的時候人物的邊緣就會很銳利，其實國外很多高成本的影集（像是hero 冰與火
+之歌）都是掛上電影鏡頭的HD電子攝影機，所以就可以比較容易出現比較淺的景深，
+甚至還能夠像電影那樣將換焦當做一種戲劇的表達（像是兩個人一前一後說話，前面
+的人說話的時候，後面的人就失焦，輪到後頭的人說話的時候，前面的人就失焦）然
+而如果是趕時間的現場節目或是成本較低劇集（像是名模生死鬥、六人行、wwe摔角
+狂熱、流言終結者這類或是現場脫口秀的節目） 就沒有辦法一直換鏡頭拍，景深自
+然就是全焦，這種處理方式是有道理的，因為當景深一淺，通常在攝影上頭就得多一
+個人力去做跟焦的工作（這在台灣叫做大助或是跟焦師），而且還不一定會跟得到，
+所以這種拍攝是沒有辦法很順暢的進行的，多半都要拍個幾次才行，所以那種趕時間
+的拍攝方式多半不會出現淺景深的鏡頭（當然也是有例外，如果場景非常的大，通常
+不需要換淺焦鏡也可出現淺景深，像是三立的鄉土劇只要一出外景到公園去大部分
+都有辦法出現淺景深，然而他們的景深也只限於人和背景的差異，沒有辦法像電影
+裡頭那樣，焦可以只在臉的部份，耳朵都可以沒焦）--當然啦，淺景深出現的目的
+主要是為了要讓主體明確，讓觀眾能夠專心的看著主角而不會被雜七雜八的雜景干擾
+所以很多時候為了達到主體明確的目的，那些節目或是低成本劇集會採用另外一招
+就是背景要乾淨單純，這也是為什麼我們會看到夜市人生的角色出現大特寫的時候，
+背景多半都是白色的緣故。
+
+
+
+
+以上多嘴分享...
+
+--
+
+男人是一種很悲哀又很容易控制的動物，因為他們往往拼了命的取悅異性，或是從各種媒
+介取得任何可以引起性幻想的事物，甚至還因而犯下強姦或是偷窺等大小不一的罪，但是
+追根究柢，目的卻只是想要從自己的身上擠出那麼5C.C的液體而已。
+粉絲團
+<a href="http://www.facebook.com/VinegarFilmCafe?ref=hl" rel="nofollow" target="_blank">http://www.facebook.com/VinegarFilmCafe?ref=hl</a>

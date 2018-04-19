@@ -1,0 +1,82 @@
+回幾個我知道的問題
+
+<span class="f6">: 推 devin0329:想請教一般我們拍照,焦外的光點大多呈圓形或正多邊形,為  04/18 03:40
+</span><span class="f6">: → devin0329:何MI:4我看到的卻是瘦長的橢圓/方形/缺口形呢?           04/18 03:42
+</span><span class="f6">: → devin0329:截圖<a href="http://imgur.com/a/azgxM" rel="nofollow" target="_blank">http://imgur.com/a/azgxM</a> 謝謝                     04/18 03:42
+</span>
+那是用一個叫anamorphic lens的鏡頭拍攝的(變形鏡頭)
+<a href="http://en.wikipedia.org/wiki/Anamorphic_format" rel="nofollow" target="_blank">http://en.wikipedia.org/wiki/Anamorphic_format</a>
+
+
+基本上這種鏡頭是用在拍攝非16:9的底片或數位感光原件的時候使用
+以數位為例
+
+一般數位相機的感光原件長寬比是接近4:3的
+但還是可以選擇拍攝16:9的影片(當然也可以拍4:3)
+它的作法是把影片的上下裁掉一部份
+缺點是感光原件的上下有一部份就被浪費掉了
+
+
+
+               ----------------
+               |              |
+               |              |            |              |
+     ▉   →   |      ▉      |    →      |      ▉      |
+               |              |            |              |
+               |              |            |              |
+               ----------------
+
+   物體          拍4:3的影片                 上下裁掉變16:9
+
+
+
+但要是使用anamorphic lens的話
+那個鏡頭會把物體變形，拉高
+拍出來的原始影片雖然還是4:3，但事後要用軟體壓縮回16:9
+好處是每一個感光原件上的單位都有發生功用
+畫質會比較細緻
+
+
+
+               ----------------
+               |              |            ---------------
+               |      ▅      |            |             |
+     ▉   →   |      █      |    →      |      ▉     |
+               |              |            |             |
+               |              |            ---------------
+               ----------------
+
+   物體        拍拉長的4:3的影片          推回正常(16:9)的比例
+
+
+但在拍攝的時候，拍攝到的散景(背景的光點)在第二步驟時還是正圓形
+等到第三步壓回來的時候，就會變成橢圓形了
+
+至於方形或不規則形狀，那應該是鏡頭前遮光罩的關係
+<a href="http://en.wikipedia.org/wiki/Matte_box" rel="nofollow" target="_blank">http://en.wikipedia.org/wiki/Matte_box</a>
+把橢圓裁成那樣
+
+
+<span class="f6">: 推 dabombz:請問為何每部電影的色調都不一樣 這是創作者的選擇嗎 可以  04/18 06:55
+</span><span class="f6">: → dabombz:透過哪些手段調整?                                       04/18 06:55
+</span>
+電影色調不一樣是創作者可以選擇的
+好萊塢最被人垢病的就是"Teal and Orange"的這個色調
+這篇有解說
+<a href="http://ppt.cc/PjCx" rel="nofollow" target="_blank">http://ppt.cc/PjCx</a>
+
+為什麼會產生這個現象是因為大家要注重顏色的對比
+電影裡最多出現的顏色通常是膚色(orange)
+而在色相環上長在orange對面的就是藍綠色(teal)
+因此就會保留膚色的orange，而把背景或其他的顏色調到偏向teal的色調
+以致很多好萊塢片看起來色調都很像
+
+至於透過什麼手段就很多了
+傳統的方法是不同的底片有不同的發色
+不同的沖劑也會沖出不同的顏色
+
+現在大部份應該是在數位上做
+有套板套上去就好(當然調光師不是這麼好混的啦…，但有套板方便很多)
+<a href="http://ppt.cc/~3J5" rel="nofollow" target="_blank">http://ppt.cc/~3J5</a>
+
+以上，希望電影板有更多這類的討論

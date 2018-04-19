@@ -1,0 +1,55 @@
+
+第一次在這邊發文，如有不符規定或不合適的地方，請
+
+各位前輩鞭小力一點。
+
+
+
+小弟目前在中字輩讀資工碩士班，最近收到研發替代役的邀請，
+
+內容如下:
+
+-------------------------------------------------
+
+鴻海集團 富士康國際(股)公司
+
+
+
+無線通訊軟體新竹研發部門
+
+
+目前正在尋找下列的人才
+
+
+職    缺: Android手機軟體研發工程師(研發替代役)
+
+
+主要的工作內容為
+
+
+1. Develop Android driver for smart phone/tablet.
+
+2. Solve base porting related issues on Linux kernel.
+
+3. Troubleshoot in Android framework/HAL/platform for stability/performance.
+
+4. Architecture design for android system.
+
+
+若有興趣，請回信或來電告知您方便的時間,謝謝.
+
+
+公司地址: 新竹縣竹北市台元街30號5F-3
+
+--------------------------------------------------
+
+同學說這間很辛苦，也不見得學的到東西。也不知道面試
+
+會不會考上述工作內容的東西(小弟沒 porting的經驗,也沒
+
+修改過linux kernel)?
+
+想請教各位前輩是否有相關的意見可以提供我參考?
+
+非常感謝。
+

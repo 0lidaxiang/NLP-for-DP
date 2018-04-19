@@ -1,0 +1,82 @@
+SIS算是台灣IC的濫觴與悲傷,有些是聽說的和個人心得,看看就好
+
+SIS在這場game中,
+
+做了 486/586/686 chipset, 網卡IC,
+
+網卡 gigabit PHY(這個我認為,開案開的莫名奇妙)
+
+WLAN MAC/BB
+
+graphics card (6326,315,xabre)
+
+------------------------------
+
+SIS 486 chipset - 這年代做什麼賺什麼, VIA/RTK都是這時間起頭的
+
+ET4000, trident
+
+-----------------
+
+百家爭鳴時期
+
+SIS 586 chipset - CPU是Pentium I/II/III, VIA/SIS/ALI 三家獨立
+
+這時期 VIA chipset sales 超強,
+
+連 ALI acer子公司的 aopen 都用VIA chipset
+
+(所以那時感覺ALI是在做心酸的嗎)
+
+作什麼賺什麼, 資本和共產壁疊分明, 台灣對手只有韓國, 韓國專心作重工業
+
+所以台灣電子業根本沒對手, 基本上是躺者賺
+
+這時間有人發現440 BX效能很好,基本上intel chipset效能之後大都是超越台廠的
+
+(除intel 815)
+
+但台廠整個便宜, 主機版產業操控在台灣廠商, 大陸漸往資本主義
+
+SIS 6836 -&gt; 神奇的一世代產品,台灣2D的黃金時間,
+
+之後3dfx,graphics方向往3D , 台灣3D IC完全沒競爭力,直到現在 (被ati/nvidia壓著打)
+
+nvidia/sega合作, 當時nvidia第一顆效能一整個不行, ATI/nvidia的CEO都是華人
+
+VIA buy S3(人多跑光), IDT(一些人還在), cyrix(人多跑光)
+
+VIA 併購策略以目前來看,結果並不好
+
+-------------------
+
+SIS ??? - Pentium 4時代
+
+大陸開放/共產解體,全球突增十億勞動人口
+
+全球化,這時intel往平台競爭方向,以增大其營利
+
+(IC 公司大的不能大時, 就不會放太多利潤給第3方IC廠了)
+
+(放出去部份的通常利潤真的不高)
+
+AMD platform VIA 880 最後的榮耀 , intel platform 因產品價格優勢已不明顯,
+
+VIA 漸退出PC chipset市場
+
+SIS 做xbox的SB
+
+-----------------------------------
+
+其實Windows 3.1後,PC市場 MS 才是主角,玩了整個市場整整十年
+
+然後 IC vendor除intel外, 來來去去的
+
+IC市場起落很快,在美國更明顯
+
+打了十幾年現在還活著的 MTK/RTK 其實實力或成本控制都不會太差
+
+但其他的就... 現在還有一堆大陸廠進來
+
+
+
