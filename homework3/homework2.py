@@ -23,6 +23,18 @@ OUTPIT_SIZE = 10
 model.add(Dense( OUTPIT_SIZE))
 model.add(Activation('softmax'))
 
+
+
+tokenizer = Tokenizer()
+tokenizer.fit_on_texts(texts)
+sequences = tokenizer.texts_to_sequences(texts)
+word_index = tokenizer.word_index
+print("Found %s unique tokens") % len(word_index))
+data = pad_sequences(sequences)
+print("Shape of data tensor:" , data.shape)
+
+path = "word_model.model"
+
 # embedding_matrix = np.zeros((len(word_index) + 1, dim))
 # for word, i in word_index.items():
 #     embedding_vector = embedding_index.get(word)
