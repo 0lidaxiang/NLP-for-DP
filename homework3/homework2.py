@@ -14,6 +14,7 @@ model_fileName = "word2vec.model"
 
 model = word2vec.Word2Vec.load(model_fileName)
 
+
 model = Sequential()
 model.add(Embedding(1000, 64, input_length=10))
 model.add(SimpleRNN(unroll=True, units=50))
@@ -34,7 +35,8 @@ data = pad_sequences(sequences)
 print("Shape of data tensor:" , data.shape)
 
 path = "word_model.model"
-
+model.gensim.models.Word2Vec.load(path)
+word
 # embedding_matrix = np.zeros((len(word_index) + 1, dim))
 # for word, i in word_index.items():
 #     embedding_vector = embedding_index.get(word)
