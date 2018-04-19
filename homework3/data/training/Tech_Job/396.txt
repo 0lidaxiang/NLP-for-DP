@@ -1,0 +1,11 @@
+就以中國白牌平板電腦的CPU來說
+中國自家廠商的IC廠商就有很多
+中國
+rockchip
+allwinner
+infotmic
+vimicro
+台灣就VIA,MTK
+韓國telechip, samsung
+美國amlogic
+這個市場競爭非常激烈

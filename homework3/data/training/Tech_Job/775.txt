@@ -1,0 +1,28 @@
+<span class="f2">※ [本文轉錄自 <a href="/bbs/Soft_Job/M.1353152226.A.97B.html" rel="nofollow" target="_blank">Soft_Job 看板 #1GftRYbx</a> ]
+</span>
+作者: Liroy (優白白) 看板: Soft_Job
+標題: [情報] Google招募New Grad Software Egr.
+時間: Sat Nov 17 19:37:03 2012
+
+
+Apply Here : <a href="http://tinyurl.com/cbtegrx" rel="nofollow" target="_blank">http://tinyurl.com/cbtegrx</a>
+<span class="f6 hl">Software Engineer, New Grad - Taipei or North America</span>
+This position is based in <span class="f3 hl">Taipei</span> or <span class="f3 hl">North America.</span>
+<span class="f5 hl">Responsibilities:</span>
+    Perform specific responsibilities which vary by project area
+
+<span class="f5 hl">Minimum Qualifications:</span>
+    BA/BS degree (In lieu of degree, 4 years relevant work experience).
+    Excellent coding skill in C, C++, Java or Python.
+
+<span class="f5 hl">Preferred Qualifications:</span>
+    MS degree.
+    1 year relevant work experience, including experience with UNIX/Linux or
+Windows environments, distributed systems, machine learning, information
+retrieval and TCP/IP.
+    Experience in network programming and/or developing/designing large
+software systems
+
+--
+雖然條件甚少，但是面試肯定不容易，強者可以去嘗試看看。
+還有可能可以去北美工作。

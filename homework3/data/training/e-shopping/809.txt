@@ -1,0 +1,17 @@
+
+想請問有人有這個狀況嗎？
+就是我可以打開淘寶頁面 也可以依分類點進類別
+
+但是要進入單一商品的時候
+就會打不開頁面
+
+
+例如
+
+<a href="http://item.taobao.com/item.htm?id=20724507401" rel="nofollow" target="_blank">http://item.taobao.com/item.htm?id=20724507401</a>
+這個頁面我就打不開
+
+
+但是
+<a href="http://www.taobao.com/" rel="nofollow" target="_blank">http://www.taobao.com/</a>
+可以

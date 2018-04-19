@@ -1,0 +1,101 @@
+<span class="f3 hl">[前言]</span>
+這次日本行在出發前就買好了b-mobile U300的卡,
+本以為只要有包裝卡上的說明就萬無一失，
+沒想到到達日本以後弄了半天都無法上網,
+後來在旅館找wifi花了1,2小時研究才OK...
+為了讓其他第一次用的版友不要浪費寶貴的旅遊時間,
+這邊再次整理在Android上的設定方法
+(測試機型為HTC Desire HD刷Sensation XL的ROM)
+
+
+<span class="f3 hl">[設定]</span>
+--------------------以下為重點-------------------------
+<span class="hl">1.設定APN</span> (可在台灣就先新增)
+
+  方法:
+  主畫面--&gt;按Menu--&gt;設定--&gt;無線與網路--&gt;行動網路(設定xxx)--&gt;
+  存取點名稱(APN)--&gt;按Menu--&gt;新增APN--&gt;輸入以下資料:
+
+          ---必填---
+        名稱：bmobile (可隨便你取,但不可空白)
+         APN：dm.jplat.net
+  使用者名稱：<a class="__cf_email__" data-cfemail="61030c0e03080d042114525151" href="/cdn-cgi/l/email-protection">[email protected]</a>
+        密碼：bmobile
+    驗證類型：PAP或CHAP
+
+          ---選填---
+       Proxy：mao.bmobile.ne.jp
+      連接埠：32080
+
+  好了以後--&gt;按Menu--&gt;儲存--&gt;Done
+
+
+  包裝卡上的APN設定沒寫"驗證類型", 我就是因為這個沒輸入而卡關的...。
+  選填的Proxy是有人說填了會比較快,但我感覺差不多。
+
+  特殊機型可參考官網的詳細設定:
+  <a href="http://www.bmobile.ne.jp/devices/setting_other_androidos.html" rel="nofollow" target="_blank">http://www.bmobile.ne.jp/devices/setting_other_androidos.html</a>
+<span class="hl">2.開啟手機的行動網路</span> (可在台灣關機前先設好)
+
+  方法：
+  &lt;1&gt; 用台灣的SIM卡開機
+
+  &lt;2&gt; 主畫面--&gt;按Menu--&gt;設定--&gt;無線與網路--&gt;
+      行動網路(設定xxx)--&gt;數據漫遊(取消打勾)
+      *目的是避免步驟3開啟後開始漫遊上網*
+
+  &lt;3&gt; 主畫面--&gt;按Menu--&gt;設定--&gt;無線與網路--&gt;行動網路(打勾)
+
+  &lt;4&gt; 關機,換回日本SIM卡
+
+  *在日本過程中都不要關閉行動網路，否則要重新插入台灣SIM卡才能開啟，
+   如需暫停網路功能，請開飛航模式。
+  *如果你的手機有root，可以不必換台灣SIM卡就可以開啟行動網路(見文後說明)
+
+--------------------以上為重點-------------------------
+
+基本上，上面兩個搞定以後就可以上網了。
+
+
+<span class="f3 hl">[備註]</span>
+1.上網成功時,訊號格子也是打叉的,也不會有H,3G等上下載的圖示,
+  但不要懷疑就是可以上網,可參考下面測速的截圖。
+
+2.使用過程中3不50就會出現這個畫面:
+  <a href="http://dl.dropbox.com/u/12170161/2012-01-21_23-32-35.png" rel="nofollow" target="_blank">http://dl.dropbox.com/u/12170161/2012-01-21_23-32-35.png</a>
+<div class="richcontent"><img alt="" src="http://dl.dropbox.com/u/12170161/2012-01-21_23-32-35.png"/></div>  不要理他!
+  因為這SIM卡是不能打電話的，因此不管你選哪個都不會讓你註冊。
+  建議按Home鍵跳出不要按返回，可減少此畫面出來擾人的機會。
+
+
+<span class="f3 hl">[測速]</span>
+沒開Proxy:
+<a href="http://dl.dropbox.com/u/12170161/2012-01-22_04-21-08.png" rel="nofollow" target="_blank">http://dl.dropbox.com/u/12170161/2012-01-22_04-21-08.png</a>
+<div class="richcontent"><img alt="" src="http://dl.dropbox.com/u/12170161/2012-01-22_04-21-08.png"/></div>有開Proxy:
+<a href="http://dl.dropbox.com/u/12170161/2012-01-23_02-39-47.png" rel="nofollow" target="_blank">http://dl.dropbox.com/u/12170161/2012-01-23_02-39-47.png</a>
+<div class="richcontent"><img alt="" src="http://dl.dropbox.com/u/12170161/2012-01-23_02-39-47.png"/></div>下載是非常準確不多不少的300kbps...
+
+開Proxy後連日本網站會快一咪咪,其他網站不一定,
+因為我幾乎都只用Google Map和上台灣網站查價錢,
+所以選擇關閉Proxy。
+
+
+<span class="f3 hl">[雜記、心得]</span>
+1.這篇文章重點是中間設定的部分，其他地方看不懂請直接無視。
+
+2.限制300kbps實際用起來其實有點少,比中華電信的吃到飽慢很多,
+  即使在訊號良好的地方也無法順暢使用Viber。
+  而像我去日本7天全程開網路，根本也用不到300MB，
+  其實買1GB限額不限速的卡應該會爽很多。
+
+3.某些app會因為沒有語音訊號而誤以為手機無法上網而不能使用，
+  算是一個特殊限制。如: FlightTrack(查航班資訊)
+
+4.無法正常使用AGPS，原因同上。
+  所以想在室內用facebook打卡是有困難的。
+
+5.如果你的手機有root，可以至Market下載"Widgetsoid"軟體，
+  這個app是可以建立各種快速開關的Widget。
+  只要其中APN開關方法選擇root，
+  就可以用他行動網路開關的功能，讓你不須換台灣SIM卡。
+  詳細用法不在此贅述。

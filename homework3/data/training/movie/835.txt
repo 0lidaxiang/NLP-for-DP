@@ -1,0 +1,132 @@
+<span class="f2">※ 引述《tonyhsie (一筆揮毫天下定)》之銘言：
+</span><span class="f6">: ※ 引述《elfguard (冷屁股專用臉頰)》之銘言：
+</span><span class="f6">: : 語氣可以好一點，之前一位雖然他有說錯的部分，不過你也有錯，
+</span><span class="f6">: : 大家切磋不要一副只有你對的樣子。
+</span><span class="f6">: 雖然我同意態度很重要
+</span><span class="f6">: 不過我想重點更應該擺在資訊的正確性上
+</span><span class="f6">: 態度很好，可是講一堆錯誤資訊，實際上只是讓更多人誤解而已
+</span><span class="f6">: 現在 google 很方便，wiki 更方便
+</span><span class="f6">: 建議大家如果專業部分不確定的話，先查查資料再來糾正別人比較好
+</span>
+如果你喜歡引經據典，我可以列給你看。
+查資料也要查得正確一點，不是很確定的大家可以拿出來討論。
+
+<span class="f6">: : 24P的制定不是因為視覺暫留的原因，而是因為古早的電影，錄音師覺得要24張才能紀錄
+</span><span class="f6">: : 足夠的聲音量(迪士尼無聲動畫片是16格，手塚治虫建立起的日本動畫一開始是4格!!)
+</span><span class="f6">: : 因為底片很貴貴貴～
+</span><span class="f6">: 這邊完全是錯誤知識，不需要專業知識就知道不可能會有你講的這種事
+</span><span class="f6">: 因為錄音師錄多少聲音，跟影片幾 fps 完全無關聯
+</span><span class="f6">: 以不專業的角度解釋：
+</span><span class="f6">:     例如我們要自拍短片，ABC 三個人用不同機器同時錄影，D 一個人負責錄音
+</span><span class="f6">:     A 錄影格式每秒錄 15 張，B 每秒錄 24 張，C 每秒錄 30 張
+</span><span class="f6">:     ABC 三段影片全都可以套上 D 的聲音，並不會有任何問題，對吧？
+</span><span class="f6">: 以專業角度來說，人的視覺系統大約每秒可以接受 10 - 12 張不同的圖片
+</span><span class="f6">: 但是這是下限，也就是說最少要有 10 張以上才勉強可以讓人有動態的感覺而不是幻燈片
+</span><span class="f6">:                                 資料來源：<a href="http://tinyurl.com/dxyof4m" rel="nofollow" target="_blank">http://tinyurl.com/dxyof4m</a>
+</span><span class="f6">: 在默片的時代，FPS 就已經在 14 - 24 左右了，默片時代哪裡來的電影錄音師？
+</span><span class="f6">:                                 資料來源：<a href="http://tinyurl.com/4jsky9" rel="nofollow" target="_blank">http://tinyurl.com/4jsky9</a>
+</span><span class="f6">: 另外，不要拿動畫跟電影比
+</span><span class="f6">: 因為多數動畫並不是真正作到 24/25/29.97 fps
+</span><span class="f6">: 一秒裡面真正作畫的張數，可能是 1~30 不等，視需要而定
+</span><span class="f6">: 不足的部分會用重複的圖片來補足
+</span><span class="f6">: 這一點每個人都可以自己驗證
+</span><span class="f6">: 只要拿早期的迪士尼或宮崎駿動畫 VCD/DVD/BD 來挑一個片段，一個 frame 一個 frame跳
+</span><span class="f6">: 你會發現並不是每個畫面都是不同圖片，多數情況下是重覆或是小地方修改而已
+</span><span class="f6">: 動畫因為是人手工畫出來的，所以需要用這種方式來減少工作量跟成本
+</span><span class="f6">: 電影不會有這種問題，瓶頸只有兩個：1. 硬體性能  2. 產業標準
+</span><span class="f6">: 硬體性能是指拍攝/播放電影的硬體規格，每秒能負荷多少資料量
+</span><span class="f6">: 產業標準是指業界根據硬體性能而制訂的標準
+</span><span class="f6">: 像 NTSC 定為交錯掃描 29.97 fps 就是受限於當時的硬體性能而訂出來的產業標準
+</span>
+喜歡看Wiki嗎？
+<a href="http://en.wikipedia.org/wiki/35_mm_film" rel="nofollow" target="_blank">http://en.wikipedia.org/wiki/35_mm_film</a>
+
+電影底片的左方留下來的就是紀錄聲音的聲軌，現在甚至齒孔外面都拿來紀錄聲音，
+如果你只是半路出家，用現在數位錄製再事後剪輯進檔案的觀念來看，當然會不瞭解。
+
+在你自己貼的連結裡面(<a href="http://tinyurl.com/4jsky9)" rel="nofollow" target="_blank">http://tinyurl.com/4jsky9)</a>，就有說到
+<span class="f3 hl">When sound film was introduced in 1926, variations in film speed were no
+</span><span class="f3 hl">longer tolerated as the human ear is more sensitive to changes in audio
+</span><span class="f3 hl">frequency. From 1927 to 1930, the rate of 24 FPS became standard for 35 mm
+</span><span class="f3 hl">sound film.</span>
+
+為了怕其他朋友看不懂，這段的意思是說
+<span class="f3">當1926年開始導入有聲電影之後，因為人類的耳朵對於聲音頻率的敏感度更高，
+</span><span class="f3">因此影格速率也被統一了。在1927到1930年之間，24P成為了35mm有聲電影的標準速率。
+</span>
+
+這樣說明不知道您可不可以理解呢？
+
+NTSC與PAL同樣可以自己看wiki <a href="http://en.wikipedia.org/wiki/NTSC" rel="nofollow" target="_blank">http://en.wikipedia.org/wiki/NTSC</a>
+幫你標注下方
+
+Technical details 裡面的Lines and refresh rate
+
+跟之前版友說得一樣，配合電力系統的60Hz 跟50Hz
+
+
+<span class="f6">: : 至於24P的電影感應該來自於快門開角180度，相當於1/48秒，所以動態造成的模糊
+</span><span class="f6">: : 比較嚴重，比如說人跑步或是快速的動作（當然別提科洛弗檔案或是惡夜叢林..XD）
+</span><span class="f6">: : 而使用一般DV的拍攝通常會在1/60附近，現在某些電影也會提高快門速度以降低殘影
+</span><span class="f6">: : 的狀況。
+</span><span class="f6">: 這一段也是錯誤的
+</span><span class="f6">: 動態模糊跟 24p 30p 60p 沒有關係
+</span><span class="f6">: 事實上是影片壓縮時 intra-frame 時為了大幅減少資料量而捨棄過多細節導致的
+</span>
+在現在的數位影像錄製，動態模糊跟影格速率是沒有關係的沒錯。
+但是在底片機上面，快門的機制是一個圓圈，加上所謂的快門開角，
+底片一格轉一圈，快門速度就等於  (開角/360)/影格速率
+
+因此快門開角180度，24fps就會變成1/48秒。
+喜歡看wiki的話，<a href="http://en.wikipedia.org/wiki/Cine_camera" rel="nofollow" target="_blank">http://en.wikipedia.org/wiki/Cine_camera</a>
+右邊第三章圖就有運作原理。
+
+之所以會說快門速度會影響感覺，舉個簡單的例子，黏土動畫（Stop Motion）
+每格都是靜止的，所以用24P、30P都會有不連貫的感覺，因為沒有中間的"過程"
+這點在電腦遊戲上更為明顯，即使是60fps，甚至80fps 以上，只要沒有加入
+Motion-Blur功能，一樣會有不流暢的感覺。
+
+因此快門速度會造成動態模糊，也就是殘影的部份，適當地保留也是對於影片非常重要
+的，現在的錄影可以直接改變快門速度、ISO、光圈，可是以前除非你去換快門開角，
+不然快門速度是固定的。
+
+至於你說到的殘影，應該類似壓縮、去交錯等過程造成的殘影，這方面我知道有這東西
+但是跟我們討論的電影感應該沒有關係。或許bpf1980兄或是有在壓制影片的朋友們會
+比較清楚。
+
+
+<span class="f6">: : 人眼雖然有視覺暫留，理論上是1/16附近（迪士尼就是因為這樣而採用），
+</span><span class="f6">: : 但是那是連續畫面的情況，如果在連續的畫面中放入一張全白或是全黑的影格，
+</span><span class="f6">: : 人眼還是看得出來的，這種現象一直要到80Hz以上才會漸漸分不出來（因人而異）
+</span><span class="f6">: : 所以我們可以看到主動3D的電視都要標榜120Hz，甚至240Hz（因為兩眼切換）。
+</span><span class="f6">: : (有錯請指正)
+</span><span class="f6">: : 而現在有些電視也開始原生支援24P，看電影應該更有感覺....XD
+</span><span class="f6">: : 上上面說的正是現在長秒數廣告（好啦…你要說微電影的話）常常使用24P+慢快門
+</span><span class="f6">: : 營造電影感，業者統統都說有感覺，大家也就跟著用了.....cc
+</span><span class="f6">: : 至於可以錄30P、60P，為什麼還要錄製24P的影片。
+</span><span class="f6">: : 第一個就是快門速度的限制，這個應該很容易理解，要錄60P就是要比1/60快的快門，
+</span><span class="f6">: : 所以如果在低光源的環境下很可能會GG.....
+</span><span class="f6">: : 第二個是我聽前輩說的，因為資料頻寬（無論是到記憶卡、HD、或是電視上），每秒
+</span><span class="f6">: : 60張跟24張哪個會有比較多的資料量，所以畫質會比較好。
+</span><span class="f6">: 畫面張數提高，是為了讓影像更流暢
+</span><span class="f6">: 畫質是 frame 本身壓縮法的好壞，像素的多寡所影響的
+</span><span class="f6">: 畫質跟畫面張數是不同的兩件事
+</span><span class="f6">: : 還有，如果像是運動節目，儘量以60P或是更快的速度拍攝，這樣才有本錢slow motion
+</span><span class="f6">: 這一點無誤
+</span><span class="f6">: （作者為資深鄉民）
+</span>
+這在底片上是沒有影響，不過在數位影片上面就會有差異。
+由於紀錄媒體的關係，所以數位檔案有時候會有頻寬的限制，無論是在錄影時，
+或是播放的時候，如果你瞭解什麼叫做色彩取樣Color Sampling的話，
+為了取得相同的fps，有時候取樣就會降低4:2:2、4:2:0...等
+
+所以有些DSLR 提供無損的HDMI output，這樣你就可以透過HDMI→SDI來用專業的
+紀錄媒體，而不用透過晶片downsampling。
+
+當然頻寬沒有限制的話，是沒有關係的。不過實際使用上，是有差異的。
+
+
+我自己有作平面攝影，不過我尊重錄影的專業，不會以平面的觀念來去看錄影，
+謝謝～
+
+

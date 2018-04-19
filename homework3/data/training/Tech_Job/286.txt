@@ -1,0 +1,57 @@
+<span class="f2">※ [本文轉錄自 <a href="/bbs/soho/M.1351761058.A.5E8.html" rel="nofollow" target="_blank">soho 看板 #1GaZoYNe</a> ]
+</span>
+作者: Myriam (我是挑剔狂！) 看板: soho
+標題: [徵才] iPhone, iPad App 開發者
+時間: Thu Nov  1 17:10:56 2012
+
+◎公司資料:
+　
+     公司名稱：tsmediagroup
+　 　公司地址：台北公館
+　 　公司電郵：<a class="__cf_email__" data-cfemail="90e4e3fdf5f4f9f1f7e2ffe5e0d0f7fdf1f9fcbef3fffd" href="/cdn-cgi/l/email-protection">[email protected]</a>
+　 　備　　註：網路行銷工作室
+
+
+◎聯絡方式∕對象：Tony
+
+
+◎徵求條件：1. 有開發app相關經驗
+            2. 瞭解如何升級app成iOS6, iphone 5 compatible
+            3. 能夠接上一個開發者的工作照著spec把剩下的完成
+            6. 懂一點英文
+            7. 會php / mysql 程式設計者優先考慮, 很多是跟 php 有關的案子
+
+
+◎徵求期限：徵到為止
+
+
+◎交件時間：以把案子做好為優先！會和設計者討論。
+
+
+◎酬勞：論件計酬。約20K/support maintenance case
+        詳細情形再討論（本人是代ＰＯ搞不太清楚）
+
+
+◎酬勞發放日：等app上架，approve後馬上發放
+
+
+◎工作地點：備有網路線的你選擇的地方。
+
+
+◎工作內容：主要是個人網路工作室要尋求的APP開發夥伴。
+            所以要針對需求，進行溝通理解，再設計，上架、測試等。
+            我們已經有ituneconnect的帳號，之前也設計過一些APP上架了。
+            現在要徵求其他的夥伴，如果你是學生、沒有太多經驗、不是很大問題，
+            可以邊做邊學。但希望是願意溝通並且解決問題的人。
+
+◎備註：如果你對這份工作有興趣，請E-Mail下列資料到 <a class="__cf_email__" data-cfemail="d6a2a5bbb3b2bfb7b1a4b9a3a696b1bbb7bfbaf8b5b9bb" href="/cdn-cgi/l/email-protection">[email protected]</a>
+        1. 開發過的app, 你的portfolio
+        2. app 開發的相關經驗
+        3. php 開發的相關經驗
+
+
+Thank You!!
+
+
+
+  --------------------------------------------------------------------------

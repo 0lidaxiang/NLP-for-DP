@@ -1,0 +1,22 @@
+<span class="f2">※ 引述《sthouse (S踢房子)》之銘言：
+</span><span class="f6">: HTC從以前就有很多問題，
+</span><span class="f6">: 只是剛好處於智慧型手機發展期，
+</span><span class="f6">: 讓他剛好壓對寶就這樣起來了，
+</span><span class="f6">: 當時所有市面上的手機介面都很不好用，
+</span><span class="f6">: 靠著sense的介面打紅，同時也把這一套搬到android，
+</span><span class="f6">: 這一個介面在那時很有效，但隨著現有的OS進版後，
+</span><span class="f6">: 原廠的介面慢慢的變的人性化，原本的利基就越來越式微，
+</span><span class="f6">: 結果又加了一堆功能，越來越遲鈍也越來越多bug，
+</span><span class="f6">: 在系統的更新上也常delay放鴿子，造成使用者的不悅
+</span>
+        聽說hTC在開發android手機的時候, 修正了很多android的bug
+
+        但是都不回報給google, 惹惱了google
+
+        後來nexus手機就轉往Samsung去做了
+
+        請問這是真的嗎??  還是科技業的都市傳說? XD
+
+        不回報給google其實還蠻能理解的, 把辛苦解的問題回報給google
+
+        然後google灑下去給其他手機廠, 是我也感覺很不是滋味

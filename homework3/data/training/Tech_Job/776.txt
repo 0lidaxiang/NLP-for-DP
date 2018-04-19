@@ -1,0 +1,29 @@
+看公司性質,
+若是ODM,那就是負責整合系統時,有關BIOS的issue.
+若是在BIOS Vendor,那就是負責寫BIOS function.
+若是在OEM , 那主要就是盯 ODM解issue,
+若是在chipset vendor , 那就比較像是FAE ,擋在內部RD team跟 客戶之間.
+大概是這樣吧...
+<span class="f2">※ 引述《Neurontin (牛肉丁)》之銘言：
+</span><span class="f6">: 對於BIOS這塊有些疑問想請教大家
+</span><span class="f6">: 最近手上有些offer都是主機板BIOS這塊的，會應徵職缺原因是因為對BIOS有興趣。
+</span><span class="f6">: 不過跟一些同為科技業的人聊了一下，有些人覺得BIOS這塊路算是比較窄的，
+</span><span class="f6">: 一日做BIOS 未來要轉職好像也不是那麼容易?
+</span><span class="f6">: 而且台灣搞主機板產業也2X年了，這方面的人才應該很多了，取代性會不會變高?
+</span><span class="f6">: 也有看到相關文章說 碩士生去寫BIOS有點浪費 或是現在寫BIOS有點像以前的作業員，
+</span><span class="f6">: 做一些routine的工作，比較不靈活 沒創新?
+</span><span class="f6">: 加上平板的崛起壓縮PC、NB市場，這塊再做下去會不會已經是沒那麼有賺頭了?
+</span><span class="f6">: 以上這些疑問 都是來自於親戚朋友，可是他們本身並不是做BIOS的，所以對他們的意見
+</span><span class="f6">: 是採取保留的態度。
+</span><span class="f6">: 但是我自己有找一些資料 爬了些文章，關於BIOS 以前是用assembly寫的，而現在已經
+</span><span class="f6">: 改成用UEFI做 (用C寫 聽說三層pointer是家常便飯)，以前用assembly寫也許真的比較
+</span><span class="f6">: 枯燥，或是說就只能用在BIOS這塊。但是現在改用C來寫 看spec+寫code的活用的程度
+</span><span class="f6">: 是不是又提升?   如果哪天真的被我練起來了，這種技術應該算是門檻高、取代性低吧?
+</span><span class="f6">: 萬一真的跟我想的不一樣  想轉職，我練的那些功真的到別塊就派不上用場嗎?
+</span><span class="f6">: (我個人是比較偏好韌體這部分，對於上層的應用比較不考慮)
+</span><span class="f6">: 因為我還只是學生 沒有工作經驗，想來請教有經驗的前輩們
+</span><span class="f6">: 因為是真的對寫這塊滿有興趣的，可是卻聽到比較不利的資訊 讓我很灰心
+</span><span class="f6">: 也有點擔心未來的規劃
+</span><span class="f6">: 如果我有太天真的想法 也請大家不令息指教了 謝謝了
+</span><span class="f6">: P.S 我本身比較熟的C/C++  C的程度應該算還可以 C++有段時間沒用有點還給老師了 = =
+</span>

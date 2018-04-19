@@ -1,0 +1,60 @@
+-----
+圖文並茂版
+<a href="http://changfong.pixnet.net/blog/post/29635999" rel="nofollow" target="_blank">http://changfong.pixnet.net/blog/post/29635999</a>
+-----
+
+日本關西2011]無線上網好方便‧B-mobile micro SIM U300
+
+有了iPhone後，隨時隨地上網，走到哪就打卡到哪，看到什麼有趣的直接拍
+照上網，已經成為了生活的一部分。只是到了日本，該怎麼解決上網問題？
+藉由ptt日旅版，得知日本B-mobile有推出一個月2980日圓上網吃到飽方案，
+真的是太方便了，所以跟大家分享使用的心得！
+
+B-mobile 有很多種SIM卡，但這款micro SIM U300是專門給iPhone4與 iPad
+上網的（不能打電話），一般大卡智慧手機用的是 SIM U300，愛注意不要買錯！
+
+那在台灣要怎麼訂購呢？很簡單，直接在官網用信用卡就可以買了，然後寄
+到你下榻的飯店就可以，請看以下教學。
+
+B-mobile micro SIM U300的購買網址
+<a href="http://www.bmobile.ne.jp/sim_m/index.html" rel="nofollow" target="_blank">http://www.bmobile.ne.jp/sim_m/index.html</a>
+
+點下去後就會看到這個頁面，請點下去購買。之後這個畫面共有四個地方請
+打勾，然後選擇使用【信用卡付款】。
+
+然後b- micro SIM U300有三種分案可：一個月、六個月與一年的，請選擇一個月。
+
+之後就按照圖片所示填入資料與信用卡號，飯店地址與郵遞區號可以直接上網查。
+
+然後記得寫封信給飯店說會有東西寄過去，請他們代收一下。然後東西寄到後
+，系統會發一封信告訴你東西已經寄到了。
+
+鏘鏘！這就是寄到旅館的b- micro SIM U300囉！
+
+打開一看就是跟官網長的一樣的東西。（我是在說廢話嗎？哈！）裡頭就是有
+一張SIM卡，他們搭配的是docomo電信的網路。另外一邊就是設定資料。
+
+後面就是開通手續的電話186-0120-915-886。這裡要注意，必須使用070 080
+090門號的手機才能進行開通，剛好有朋友在日本工作，所以打電話請他幫忙
+開通。如果你沒有的話可以在上班時間(平日的9:00-18:00)打客服專線請專人
+為你開通，如果真的不行可能就要請飯店人員協助一下囉！
+
+插入SIM後，會跳出SIM卡已變更，是否要重新認證的訊息，請選不要就OK。
+
+然後設定的方式是：設定－一般網路－網路行動資料－網路－APN
+
+進到APN後，輸入APN、使用者帳號、密碼就可以了。
+
+在日本十天，覺得十分方便，走到哪上網到哪，要查資料、上網查地圖都超級
+方便的，收訊也還不錯。隨時隨地可以把照片上傳到FB，零時差的分享所見所聞
+給朋友，爽度破表！
+
+日期：2011.07.15
+
+B-mobile官方網站
+<a href="http://www.bmobile.ne.jp/sim/index.html" rel="nofollow" target="_blank">http://www.bmobile.ne.jp/sim/index.html</a>
+
+
+延伸閱讀
+<a href="http://changfong.pixnet.net/blog/category/1522496" rel="nofollow" target="_blank">http://changfong.pixnet.net/blog/category/1522496</a>
+日本關西京阪神奈之旅2011全記錄

@@ -1,0 +1,122 @@
+大致上考資管最基本的就是要會假說檢定吧~
+
+我是補張翔的統計學
+
+他會要我們六個步驟都做出來
+
+下面是臨界值法的基本六個步驟
+
+        1.列出虛無假設與對立假設
+
+        2.顯著水準
+
+        3.找出適當的統計量
+
+        4.找出拒絕域
+
+        5.計算虛無假說為真下的觀測值
+
+        6.決策法則
+
+(另外P值法,信賴區間法也是明確規定步驟)
+
+雖然張翔有說過要不要寫這麼完整取決於配分
+
+但是幾乎練習時只要是作假說檢定我都會寫出來
+
+最後習慣成自然考試都可以寫很順很快 不怕時間不夠
+
+這方法在之後的ANOVA,回歸,卡方都是這樣寫
+
+套句張翔講的話
+
+統計是邊際效益遞增的！！
+
+到後面不管分析怎樣變
+
+步驟真的就是一個樣
+
+沒甚麼改變
+
+比較麻煩要記的就是統計量(通常也是區間估計的樞紐量)
+
+建議做出樹狀圖來(張翔就是這麼教的)
+
+        母體有無常態阿 有的話變異數是否已知阿
+
+        若無常態可否用CLT阿 諸如此類的
+
+做出樹狀圖 以後不知道要用甚麼統計量就可以去看一下
+
+久了就也不用看了
+
+-----------------------------------------
+
+另外如果原PO有要考中央的話
+
+記得要看無母數
+
+因為中央不能用計算機
+
+如果要考計算題通常都會出這種不用按到計算機的
+
+在準備其他學校時就可以比較把重點放在前面講的
+
+政大科技組的話我覺得可以把考古題看到滾瓜爛熟
+
+兩年來考的題型幾乎一模一樣＠＠
+
+<span class="f0 hl">      題外話:那時候考卷發下來我想說死定了...</span>
+<span class="f0 hl">      因為我就是把主力放在統計上 結果給我考考古題</span>
+<span class="f0 hl">      好險之後還是有上</span>
+
+成大的話就是熟記假說檢定還有基本計算機的使用技巧
+
+------------------------------------------
+
+再來講一下我準備的方法好了
+
+我讀的順序就是照著那時老師有教甚麼就讀甚麼
+
+古典機率論-&gt;隨機變數-&gt;多元隨機變數-&gt;常用分配-&gt;抽樣分配
+
+-&gt;點估計-&gt;抽樣分配-&gt;假說檢定-&gt;ANOVA-&gt;回歸-&gt;卡方-&gt;無母數
+
+在寫考古題之前我都是狂寫計算題
+
+在寫考古題(或者是補習班的模擬考)的時候結果沒甚麼東西會寫
+
+感覺很挫折
+
+所以我就把我不會的觀念都補起來
+
+邊讀邊補
+
+可能寫一寫前面的公式忘記了再重新看過該章節一遍
+
+我除了計算題會用到的觀念通常都是被考到才會去加強＠＠
+
+就這樣讀到考試前
+
+----------------------------------------------
+
+最後如果可以的話最好找個同伴一起讀書
+
+有問題就盡量問吧
+
+
+
+
+呼
+
+打到最後也不知道自己在打甚麼
+
+就隨便看看吧= =
+
+--
+╔《新版十二生肖》═════════════════════════════╗
+║                                   <span class="f1">◣</span><span class="f1">◣</span> <span class="f1">ˍ</span> <span class="f0 hl"> </span>║
+ ●●╰<span class="f0 b7">‧‧</span>╯<span class="f0">◣</span><span class="f3">  ◢</span><span class="f0"> </span><span class="f1 b7">[</span> <span class="f1 b7">]</span> <span class="f1">ιι </span><span class="f0 b7">.  .</span>◣<span class="f0"> </span><span class="f0 b1">- - </span><span class="f1">◣</span><span class="f0"> </span>ˍ▁  <span class="f0">◢</span><span class="f0 b3">﹎</span><span class="f3">◣</span><span class="f0">▁</span><span class="f1">▂</span>                ║
+<span class="f0 hl">◢</span><span class="f0 b7">''</span> <span class="b3"> </span><span class="f0 b3">.. </span> <span class="f0 b3">'〒'</span> <span class="f0 b7">'. '</span> <span class="f0 b2">'  '</span> <span class="f1">ξ </span>▌<span class="f1"> </span><span class="f0 b1">. . </span><span class="f1 b1">≡</span><span class="f0">◢</span><span class="f0 b7">'</span><span class="b7">◎</span><span class="f0 b7">@@</span> <span class="f1">●</span><span class="f0 b3">﹏</span><span class="f3 b3">●</span><span class="f1">★</span><span class="f0 b7">'</span><span class="b7"> </span>◣<span class="f0"> </span><span class="f0 b7">ˊ</span><span class="f1 b7">▄</span><span class="f0 b7">ˋ</span> <span class="f3 b1 hl">★︰  </span>║
+ <span class="f0">‵</span><span class="f0 b7">′</span>/  ██╯ <span class="f0">█</span><span class="f3">/   </span>▲<span class="f2">╭</span><span class="f0 b2">≡</span><span class="f2">╮    </span><span class="b7">▃</span> <span class="f0 b1">￣</span><span class="f1">█</span><span class="f1 b1">ㄟ</span><span class="f1"> </span><span class="f0 b7">@@@@</span> <span class="f0">◣</span><span class="f1 b3">◢</span><span class="f0"> ◥</span>█◤ <span class="f0 b7">ˋ</span><span class="b4">▄</span><span class="f0 b7">ˊ</span> <span class="f3 b1 hl">‥    </span>║
+╚═══" " ════════════ <span class="f1">"</span>═<span class="f1">"</span>══"═"══<span class="f1">╯</span>══════<span class="f0 hl">liszt1025</span>╝
