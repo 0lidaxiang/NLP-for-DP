@@ -7,15 +7,15 @@ This is the Introduction of Natural Language Processing course in NTUST 2018. **
 ## Homework1
 Introduce the base knowledge of Python, Deeplearning and TensorFlow.
 
-## Homework1-1
+#### Homework1-1
 
 Introduction to Python.
 
-## Homework1-2
+####  Homework1-2
 
 Introduction to TensorFlow : Install tensorflow & practice.
 
-## Homework1-3
+####  Homework1-3
 
 Introduce the concept of :
 - Gradient descent
@@ -29,7 +29,7 @@ Practice the tensorflow.
 
 Introduction to Keras and practice. The practice is to predict the probability of survival of Titanic passengers.
 
-## Homework3
+##Homework3
 
 Introduce the Word Embeddings & Recurrent Neural Networks.
 Goal is the Document Classification used RNN: predict what class(catalogue) of article is obtained from PTT.
