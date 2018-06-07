@@ -1,10 +1,10 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"]='-1'
+#os.environ["CUDA_VISIBLE_DEVICES"]='-1'
 import glob
 import numpy as np
 import pandas as pd
 from scipy.misc.pilutil import imread,imresize,imsave
-from keras.models import load_model
+#from keras.models import load_model
 
 def generator_test_Img(list_dir,resize):
     output_training_img=[]
@@ -34,22 +34,28 @@ def numpy_to_csv(input_image,image_number=10,save_csv_name='predict.csv'):
     print("Okay! numpy_to_csv")
 
 
-test_data_dir='.\NLP_data\Test\White\*' 
+# test_data_dir='.\NLP_data\Test\White\*' 
+test_data_dir = '../test_rel/*'
 test_data_dir_list=glob.glob(test_data_dir)
 test_data_list=[]
 test_data_list.extend(test_data_dir_list)
 
+test_data_list=  sorted(test_data_list)
+print(test_data_list)
 n=10
 output_img_col = output_img_row=128
 white_img = generator_test_Img(list_dir=test_data_list,resize=(output_img_col,output_img_row))
+print(white_img.shape)
 #這邊的G就是Example Code的G拉
 #只是怕放在最下面會搞亂大家 所以分別寫出來
-image_array = G.predict(white_img).squeeze(1)     #Predict出來是 (n,1,img_row,img_col) 只是做Reshape為(n,img_row,img_col)
+image_array = white_img     #Predict出來是 (n,1,img_row,img_col) 只是做Reshape為(n,img_row,img_col)
 image_array = (image_array+1)/2                   #這邊很重要 因為答案是0~1的灰階值 
                                                   #然而如果你Generator輸出是tanh 會介於-1~1之間，須把他變成0~1 ==> ((-1~1)+1)/2=(0~1)
                                                   #當然如果你是Sigmoid輸出，就不用作Rescale的動作
 
 
-print(image_array.shape)                          #預期是(n,img_row,img_col) 如果不是 可能會轉換不出來，或是跟答案沒對上
 
-numpy_to_csv(input_image=image_array,image_number=n,save_csv_name='Predict.csv')
+
+numpy_to_csv(input_image=image_array,image_number=n,save_csv_name='Predict_test_rel.csv')
+
+print(image_array.shape)                          #預期是(n,img_row,img_col) 如果不是 可能會轉換不出來，或是跟答案沒對上

@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# In[1]:
-
 
 from __future__ import print_function, division
 
@@ -25,8 +23,6 @@ from keras.models import Sequential, Model
 from keras.optimizers import Adam
 
 
-# In[2]:
-
 
 class Pix2Pix():
     def __init__(self):
@@ -35,7 +31,6 @@ class Pix2Pix():
         self.img_cols = 128
         self.channels = 1
         self.img_shape = (self.img_rows, self.img_cols, self.channels)
-#         self.img_shape = (self.channels, self.img_rows, self.img_cols)
 
         # Configure data loader
         self.dataset_name = 'train'
@@ -53,11 +48,6 @@ class Pix2Pix():
         # Build and compile the discriminator
         self.discriminator = self.build_discriminator()
         self.discriminator.compile(loss='mse', optimizer=optimizer, metrics=['accuracy'])
-
-        #-------------------------
-        # Construct Computational
-        #   Graph of Generator
-        #-------------------------
 
         # Build the generator
         self.generator = self.build_generator()
@@ -149,10 +139,6 @@ class Pix2Pix():
 
         return Model([img_A, img_B], validity)
 
-
-# In[3]:
-
-
 if __name__ == '__main__':
     gan = Pix2Pix()
     print("generator: ")
@@ -160,9 +146,6 @@ if __name__ == '__main__':
     print("discriminator: ")
 #     gan.discriminator.summary()
 #     gan.combined.summary()
-
-
-# In[4]:
 
 
 def generator_training_Img(real_list_dir,white_list_dir,resize=None,batch_size=32):
@@ -198,9 +181,6 @@ def generator_test_Img(white_list_dir,resize=None ):
     return batch_white_img
 
 
-# In[5]:
-
-
 train_real_data_dir = r'./datasets/train/Real/*'
 train_white_data_dir = r'./datasets/train/White/*'
 
@@ -211,9 +191,6 @@ train_real_data_list.extend(real_list)
 white_list = glob(train_white_data_dir)
 train_white_data_list = []
 train_white_data_list.extend(white_list)
-
-
-# In[ ]:
 
 
 epochs = 7000
@@ -237,16 +214,8 @@ for epoch in range(0, epochs):
         imgs_B = imgs_B.reshape((32,128,128,1))
         imgs_A = imgs_A.reshape((32,128,128,1))
         
-#             if epoch % 200 == 0 :
-#                 gan.combined.save('combined' + str(epoch) + '.h5') 
-#                 gan.generator.save('generator' + str(epoch) + '.h5') 
-#                 gan.discriminator.save('disc' + str(epoch) + '.h5') 
-        
-        ###################################
-        #Training Discriminator Phase
-        ###################################
-        fake_A = gan.generator.predict(imgs_B)
 
+        fake_A = gan.generator.predict(imgs_B)
         d_loss_real = gan.discriminator.train_on_batch([imgs_A, imgs_B], valid)
         d_loss_fake = gan.discriminator.train_on_batch([fake_A, imgs_B], fake)
         d_loss = 0.5 * np.add(d_loss_real, d_loss_fake)
@@ -264,9 +233,6 @@ for epoch in range(0, epochs):
         np.savetxt("all_g_loss.txt", all_g_loss, delimiter=",")
 
 
-# In[ ]:
-
-
 test_white_data_dir = r'./datasets/test/*'
 test_white_list = glob(test_white_data_dir)
 test_white_data_list = []
@@ -275,16 +241,11 @@ test_white_data_list = sorted(test_white_data_list)
 
 print(len(test_white_data_list), test_white_data_list)
 test_white_data_list = generator_test_Img( white_list_dir=test_white_data_list, resize=(128,128))
-#     print(len(test_white_data_list), test_white_data_list)
 
 fake_A = gan.generator.predict(test_white_data_list)
-#     gen_imgs = fake_A
 gen_imgs = np.concatenate([fake_A])
 gen_imgs = 0.5 * gen_imgs
 print(gen_imgs.shape)
-
-
-# In[ ]:
 
 
 ids = 0
@@ -294,9 +255,6 @@ for img in gen_imgs:
     ids += 1                  
 plt.close()   
 print("test_data generator predict over.")
-
-
-# In[ ]:
 
 
 def numpy_to_csv(input_image,image_number=10,save_csv_name='predict.csv'):
@@ -316,16 +274,8 @@ def numpy_to_csv(input_image,image_number=10,save_csv_name='predict.csv'):
     df.to_csv(save_csv_name)
     print("Okay! numpy_to_csv")
 
-
-# In[ ]:
-
-
-# image_array = (image_array+1)/2                   
 n=10
 numpy_to_csv(input_image= gen_imgs,image_number=n,save_csv_name='Predict.csv')
-
-
-# In[ ]:
 
 
 # draw loss 
@@ -341,7 +291,7 @@ all_d_loss_x = np.linspace(0, 1, all_d_loss_txt.shape[0])
 all_g_loss_x = np.linspace(0, 1, all_g_loss_txt.shape[0])
 
 plt.plot(all_g_loss_x, all_g_loss_txt, '-r');  # dotted red, g_loss
-# plt.plot(all_d_loss_x , all_d_loss_txt , '-g');  # dotted green, d_loss
+plt.plot(all_d_loss_x , all_d_loss_txt , '-g');  # dotted green, d_loss
 
 plt.show()
 
