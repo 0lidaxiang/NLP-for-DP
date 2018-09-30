@@ -29,7 +29,7 @@ Practice the tensorflow.
 
 Introduction to Keras and practice. The practice is to predict the probability of survival of Titanic passengers.
 
-##Homework3
+## Homework3
 
 Introduce the Word Embeddings & Recurrent Neural Networks.
 Goal is the Document Classification used RNN: predict what class(catalogue) of article is obtained from PTT.
